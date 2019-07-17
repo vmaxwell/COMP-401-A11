@@ -1,0 +1,105 @@
+0,Fri Sep 16 01:40:36 EDT 2016,true,main\ScanString.java,typeDefined,ScanString,No Expected Tag
+1,Fri Sep 16 14:40:41 EDT 2016,true,main\Assignment3.java,typeDefined,Assignment3,main.Assignment(.*)
+2,Thu Sep 22 16:36:22 EDT 2016,true,main\StartToken.java,typeDefined,StartToken,No Expected Tag
+2,Thu Sep 22 16:36:23 EDT 2016,true,main\WordToken.java,typeDefined,WordToken,No Expected Tag
+2,Thu Sep 22 16:36:23 EDT 2016,true,main\RunTests.java,typeDefined,RunTests,No Expected Tag
+2,Thu Sep 22 16:36:23 EDT 2016,true,main\NumberTokenImpl.java,typeDefined,NumberTokenImpl,No Expected Tag
+2,Thu Sep 22 16:36:23 EDT 2016,true,main\ScanStringImpl.java,typeDefined,ScanStringImpl,No Expected Tag
+2,Thu Sep 22 16:36:23 EDT 2016,true,main\Token.java,typeDefined,Token,No Expected Tag
+2,Thu Sep 22 16:36:23 EDT 2016,true,main\EndToken.java,typeDefined,EndToken,No Expected Tag
+2,Thu Sep 22 16:36:23 EDT 2016,true,main\WordTokenImpl.java,typeDefined,WordTokenImpl,No Expected Tag
+2,Thu Sep 22 16:36:23 EDT 2016,true,main\NumberToken.java,typeDefined,NumberToken,No Expected Tag
+2,Thu Sep 22 16:36:23 EDT 2016,true,main\MinusToken.java,typeDefined,MinusToken,No Expected Tag
+2,Thu Sep 22 16:36:23 EDT 2016,true,main\QuotedStringToken.java,typeDefined,QuotedStringToken,No Expected Tag
+2,Thu Sep 22 16:36:24 EDT 2016,true,main\PlusToken.java,typeDefined,PlusToken,No Expected Tag
+3,Thu Sep 22 16:37:31 EDT 2016,true,main\Move.java,typeDefined,Move,No Expected Tag
+4,Thu Sep 22 16:38:42 EDT 2016,true,main\MoveToken.java,typeDefined,MoveToken,No Expected Tag
+5,Thu Sep 22 16:39:39 EDT 2016,true,main\MoveCommand.java,typeDefined,MoveCommand,No Expected Tag
+6,Thu Sep 22 16:39:52 EDT 2016,true,main\SayCommand.java,typeDefined,SayCommand,No Expected Tag
+7,Thu Sep 22 16:40:04 EDT 2016,true,main\RepeatCommand.java,typeDefined,RepeatCommand,No Expected Tag
+8,Thu Sep 22 16:40:30 EDT 2016,true,main\ApproachCommand.java,typeDefined,ApproachCommand,No Expected Tag
+9,Thu Sep 22 16:40:40 EDT 2016,true,main\PassCommand.java,typeDefined,PassCommand,No Expected Tag
+10,Thu Sep 22 16:40:48 EDT 2016,true,main\FailCommand.java,typeDefined,FailCommand,No Expected Tag
+11,Thu Sep 22 16:43:05 EDT 2016,true,main\ApproachCommand.java,typeDefined,ApproachCommand,@Word
+12,Thu Sep 22 16:43:13 EDT 2016,true,main\FailCommand.java,typeDefined,FailCommand,@Word
+13,Thu Sep 22 16:43:25 EDT 2016,true,main\PassCommand.java,typeDefined,PassCommand,@Word
+13,Thu Sep 22 16:43:28 EDT 2016,true,main\RepeatCommand.java,typeDefined,RepeatCommand,@Word
+13,Thu Sep 22 16:43:32 EDT 2016,true,main\SayCommand.java,typeDefined,SayCommand,@Word
+13,Thu Sep 22 16:43:36 EDT 2016,true,main\MoveCommand.java,typeDefined,MoveCommand,@Word
+14,Thu Sep 22 17:03:20 EDT 2016,true,main\ScanString.java,typeDefined,ScanString,@ScannerBean
+16,Thu Sep 22 18:45:31 EDT 2016,true,main\Assignment4.java,typeDefined,Assignment4,main.Assignment(.*)
+18,Thu Sep 22 20:07:58 EDT 2016,true,main\RotateLeftArmCommand.java,typeDefined,RotateLeftArmCommand,No Expected Tag
+19,Thu Sep 22 20:08:10 EDT 2016,true,main\RotateRightArmCommand.java,typeDefined,RotateRightArmCommand,No Expected Tag
+20,Thu Sep 22 20:08:20 EDT 2016,true,main\DefineCommand.java,typeDefined,DefineCommand,No Expected Tag
+21,Thu Sep 22 20:08:29 EDT 2016,true,main\CallCommand.java,typeDefined,CallCommand,No Expected Tag
+22,Thu Sep 22 20:08:37 EDT 2016,true,main\ThreadCommand.java,typeDefined,ThreadCommand,No Expected Tag
+23,Thu Sep 22 20:08:45 EDT 2016,true,main\WaitCommand.java,typeDefined,WaitCommand,No Expected Tag
+24,Thu Sep 22 20:08:55 EDT 2016,true,main\ProceedAllCommand.java,typeDefined,ProceedAllCommand,No Expected Tag
+25,Thu Sep 22 20:09:04 EDT 2016,true,main\SleepCommand.java,typeDefined,SleepCommand,No Expected Tag
+26,Thu Sep 22 20:09:11 EDT 2016,true,main\UndoCommand.java,typeDefined,UndoCommand,No Expected Tag
+27,Thu Sep 22 20:09:23 EDT 2016,true,main\RedoCommand.java,typeDefined,RedoCommand,No Expected Tag
+28,Thu Sep 22 20:09:52 EDT 2016,true,main\RotateLeftArmCommand.java,typeDefined,RotateLeftArmCommand,@Word
+29,Thu Sep 22 20:10:17 EDT 2016,true,main\RotateRightArmCommand.java,typeDefined,RotateRightArmCommand,@Word
+30,Thu Sep 22 20:10:32 EDT 2016,true,main\DefineCommand.java,typeDefined,DefineCommand,@Word
+31,Thu Sep 22 20:10:47 EDT 2016,true,main\CallCommand.java,typeDefined,CallCommand,@Word
+32,Thu Sep 22 20:11:06 EDT 2016,true,main\ThreadCommand.java,typeDefined,ThreadCommand,@Word
+33,Thu Sep 22 20:11:22 EDT 2016,true,main\WaitCommand.java,typeDefined,WaitCommand,@Word
+34,Thu Sep 22 20:11:37 EDT 2016,true,main\ProceedAllCommand.java,typeDefined,ProceedAllCommand,@Word
+35,Thu Sep 22 20:11:56 EDT 2016,true,main\SleepCommand.java,typeDefined,SleepCommand,@Word
+36,Thu Sep 22 20:12:09 EDT 2016,true,main\UndoCommand.java,typeDefined,UndoCommand,@Word
+37,Thu Sep 22 20:12:25 EDT 2016,true,main\RedoCommand.java,typeDefined,RedoCommand,@Word
+41,Thu Sep 22 20:39:22 EDT 2016,true,main\LineImpl.java,typeDefined,LineImpl,No Expected Tag
+43,Thu Sep 22 20:54:47 EDT 2016,true,main\Line.java,typeDefined,Line,No Expected Tag
+44,Thu Sep 22 23:25:31 EDT 2016,true,main\Assignment4.java,magic.number,Assignment4,3000,EXPR 3000
+45,Thu Sep 22 23:30:52 EDT 2016,false,RedoCommand,typeDefined,RedoCommand,No Expected Tag
+45,Thu Sep 22 23:30:52 EDT 2016,false,RedoCommand,typeDefined,RedoCommand,@Word
+45,Thu Sep 22 23:30:52 EDT 2016,false,WaitCommand,typeDefined,WaitCommand,No Expected Tag
+45,Thu Sep 22 23:30:52 EDT 2016,false,WaitCommand,typeDefined,WaitCommand,@Word
+45,Thu Sep 22 23:30:52 EDT 2016,false,MinusToken,typeDefined,MinusToken,No Expected Tag
+45,Thu Sep 22 23:30:52 EDT 2016,false,ScanString,typeDefined,ScanString,@ScannerBean
+45,Thu Sep 22 23:30:52 EDT 2016,false,ScanString,typeDefined,ScanString,No Expected Tag
+45,Thu Sep 22 23:30:52 EDT 2016,false,ProceedAllCommand,typeDefined,ProceedAllCommand,@Word
+45,Thu Sep 22 23:30:52 EDT 2016,false,ProceedAllCommand,typeDefined,ProceedAllCommand,No Expected Tag
+45,Thu Sep 22 23:30:52 EDT 2016,false,Token,typeDefined,Token,No Expected Tag
+45,Thu Sep 22 23:30:52 EDT 2016,false,UndoCommand,typeDefined,UndoCommand,No Expected Tag
+45,Thu Sep 22 23:30:52 EDT 2016,false,UndoCommand,typeDefined,UndoCommand,@Word
+45,Thu Sep 22 23:30:52 EDT 2016,false,Assignment3,typeDefined,Assignment3,main.Assignment(.*)
+45,Thu Sep 22 23:30:52 EDT 2016,false,WordTokenImpl,typeDefined,WordTokenImpl,No Expected Tag
+45,Thu Sep 22 23:30:52 EDT 2016,false,ScanStringImpl,typeDefined,ScanStringImpl,No Expected Tag
+45,Thu Sep 22 23:30:52 EDT 2016,false,CallCommand,typeDefined,CallCommand,@Word
+45,Thu Sep 22 23:30:52 EDT 2016,false,CallCommand,typeDefined,CallCommand,No Expected Tag
+45,Thu Sep 22 23:30:52 EDT 2016,false,RunTests,typeDefined,RunTests,No Expected Tag
+45,Thu Sep 22 23:30:52 EDT 2016,false,RotateLeftArmCommand,typeDefined,RotateLeftArmCommand,@Word
+45,Thu Sep 22 23:30:52 EDT 2016,false,RotateLeftArmCommand,typeDefined,RotateLeftArmCommand,No Expected Tag
+45,Thu Sep 22 23:30:52 EDT 2016,false,PassCommand,typeDefined,PassCommand,@Word
+45,Thu Sep 22 23:30:52 EDT 2016,false,PassCommand,typeDefined,PassCommand,No Expected Tag
+45,Thu Sep 22 23:30:52 EDT 2016,false,MoveCommand,typeDefined,MoveCommand,@Word
+45,Thu Sep 22 23:30:52 EDT 2016,false,MoveCommand,typeDefined,MoveCommand,No Expected Tag
+45,Thu Sep 22 23:30:52 EDT 2016,false,SleepCommand,typeDefined,SleepCommand,No Expected Tag
+45,Thu Sep 22 23:30:52 EDT 2016,false,SleepCommand,typeDefined,SleepCommand,@Word
+45,Thu Sep 22 23:30:52 EDT 2016,false,SayCommand,typeDefined,SayCommand,@Word
+45,Thu Sep 22 23:30:52 EDT 2016,false,SayCommand,typeDefined,SayCommand,No Expected Tag
+45,Thu Sep 22 23:30:52 EDT 2016,false,MoveToken,typeDefined,MoveToken,No Expected Tag
+45,Thu Sep 22 23:30:52 EDT 2016,false,QuotedStringToken,typeDefined,QuotedStringToken,No Expected Tag
+45,Thu Sep 22 23:30:52 EDT 2016,false,ThreadCommand,typeDefined,ThreadCommand,No Expected Tag
+45,Thu Sep 22 23:30:52 EDT 2016,false,ThreadCommand,typeDefined,ThreadCommand,@Word
+45,Thu Sep 22 23:30:52 EDT 2016,false,ApproachCommand,typeDefined,ApproachCommand,@Word
+45,Thu Sep 22 23:30:52 EDT 2016,false,ApproachCommand,typeDefined,ApproachCommand,No Expected Tag
+45,Thu Sep 22 23:30:52 EDT 2016,false,StartToken,typeDefined,StartToken,No Expected Tag
+45,Thu Sep 22 23:30:52 EDT 2016,false,DefineCommand,typeDefined,DefineCommand,@Word
+45,Thu Sep 22 23:30:52 EDT 2016,false,DefineCommand,typeDefined,DefineCommand,No Expected Tag
+45,Thu Sep 22 23:30:52 EDT 2016,false,NumberToken,typeDefined,NumberToken,No Expected Tag
+45,Thu Sep 22 23:30:52 EDT 2016,false,PlusToken,typeDefined,PlusToken,No Expected Tag
+45,Thu Sep 22 23:30:52 EDT 2016,false,LineImpl,typeDefined,LineImpl,No Expected Tag
+45,Thu Sep 22 23:30:52 EDT 2016,false,RepeatCommand,typeDefined,RepeatCommand,No Expected Tag
+45,Thu Sep 22 23:30:52 EDT 2016,false,RepeatCommand,typeDefined,RepeatCommand,@Word
+45,Thu Sep 22 23:30:52 EDT 2016,false,WordToken,typeDefined,WordToken,No Expected Tag
+45,Thu Sep 22 23:30:52 EDT 2016,false,RotateRightArmCommand,typeDefined,RotateRightArmCommand,@Word
+45,Thu Sep 22 23:30:52 EDT 2016,false,RotateRightArmCommand,typeDefined,RotateRightArmCommand,No Expected Tag
+45,Thu Sep 22 23:30:52 EDT 2016,false,FailCommand,typeDefined,FailCommand,No Expected Tag
+45,Thu Sep 22 23:30:52 EDT 2016,false,FailCommand,typeDefined,FailCommand,@Word
+45,Thu Sep 22 23:30:52 EDT 2016,false,NumberTokenImpl,typeDefined,NumberTokenImpl,No Expected Tag
+45,Thu Sep 22 23:30:52 EDT 2016,false,Move,typeDefined,Move,No Expected Tag
+45,Thu Sep 22 23:30:52 EDT 2016,false,EndToken,typeDefined,EndToken,No Expected Tag
+45,Thu Sep 22 23:30:52 EDT 2016,true,main\ScanString.java,typeDefined,ScanString,@ScannerBean
+46,Thu Sep 22 23:37:59 EDT 2016,true,main\ScanStringImpl.java,typeDefined,ScanStringImpl,@ScannerBean

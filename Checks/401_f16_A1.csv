@@ -1,0 +1,23 @@
+0,Fri Sep 02 14:13:00 EDT 2016,true,main\RunTests.java,typeDefined,RunTests,No Expected Tag
+0,Fri Sep 02 15:13:24 EDT 2016,true,main\RunTests.java,expectedTypes,[main.Assignment(.*), mp.scanner.ScanningIterator//EC]
+0,Fri Sep 02 15:13:24 EDT 2016,true,main\RunTests.java,illegalTypeImported,RunTests,gradingTools.comp401f16.assignment1.testcases.Assignment1Suite,RunTests
+3,Fri Sep 02 16:24:39 EDT 2016,true,main\Assignment1.java,typeDefined,Assignment1,main.Assignment(.*)
+8,Fri Sep 02 17:24:05 EDT 2016,true,main\Assignment1.java,expectedTypes,[main.Assignment(.*), mp.scanner.ScanningIterator//EC]
+8,Fri Sep 02 17:24:05 EDT 2016,true,main\Assignment1.java,uncessaryMethodCall,Assignment1,processInput-->String.equals
+8,Fri Sep 02 17:24:05 EDT 2016,true,main\Assignment1.java,expectedDeclaredSignatures,Assignment1,indexOfNot:String;char;int->int//EC,Assignment1
+8,Fri Sep 02 17:24:05 EDT 2016,true,main\Assignment1.java,missingMethodCall,Assignment1,       indexOfNot:String;char;int->void//EC 
+8,Fri Sep 02 17:24:05 EDT 2016,true,main\Assignment1.java,missingMethodCall,Assignment1,       (.*)!hasNext:->boolean//EC 
+8,Fri Sep 02 17:24:05 EDT 2016,true,main\Assignment1.java,missingMethodCall,Assignment1,       (.*)!next:->String//EC
+9,Fri Sep 02 17:25:11 EDT 2016,false,RunTests,illegalTypeImported,RunTests,gradingTools.comp401f16.assignment1.testcases.Assignment1Suite,RunTests
+9,Fri Sep 02 17:25:11 EDT 2016,false,RunTests,typeDefined,RunTests,No Expected Tag
+9,Fri Sep 02 17:25:11 EDT 2016,false,[main.Assignment(.*),expectedTypes,[main.Assignment(.*), mp.scanner.ScanningIterator//EC]
+15,Fri Sep 02 18:15:21 EDT 2016,true,main\Assignment1.java,uncessaryMethodCall,Assignment1,isLegal-->String.equals
+34,Fri Sep 02 21:46:43 EDT 2016,true,main\Assignment1.java,expectedTypes,[main.Assignment(.*), mp.scanner.ScanningIterator//EC]
+35,Fri Sep 02 21:52:23 EDT 2016,false,Assignment1,expectedDeclaredSignatures,Assignment1,indexOfNot:String;char;int->int//EC,Assignment1
+35,Fri Sep 02 21:52:23 EDT 2016,false,Assignment1,missingMethodCall,Assignment1,       indexOfNot:String;char;int->void//EC 
+36,Wed Sep 07 15:59:15 EDT 2016,true,main\RunTests.java,typeDefined,RunTests,No Expected Tag
+45,Thu Sep 08 00:36:55 EDT 2016,true,main\Assignment1.java,expectedTypes,[main.Assignment(.*), mp.scanner.ScanningIterator//EC]
+46,Fri Sep 09 21:07:44 EDT 2016,true,main\Assignment2.java,typeDefined,Assignment2,main.Assignment(.*)
+47,Fri Sep 09 21:10:24 EDT 2016,true,main\ScanString.java,typeDefined,ScanString,No Expected Tag
+48,Fri Sep 23 10:57:07 EDT 2016,true,main\ScanString.java,typeDefined,ScanString,@ScannerBean
+53,Fri Sep 23 13:16:00 EDT 2016,true,main\ScanStringImpl.java,typeDefined,ScanStringImpl,@ScannerBean

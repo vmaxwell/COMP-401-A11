@@ -1,0 +1,601 @@
+-1,Sun Dec 04 20:36:51 EST 2016,true,main\RunTests.java,typeDefined,RunTests,No Expected Tag
+29,Sun Dec 04 20:50:01 EST 2016,true,main\Assignment9.java,typeDefined,Assignment9,main.Assignment9
+30,Sun Dec 04 20:54:46 EST 2016,true,grail\SingletonsCreator.java,typeDefined,SingletonsCreator,No Expected Tag
+31,Sun Dec 04 20:56:22 EST 2016,true,mp\shapes\Line.java,typeDefined,Line,No Expected Tag
+32,Sun Dec 04 21:01:07 EST 2016,true,main\Assignment9.java,expectedTypes,[main.Assignment9, @ScannerBean, @Number, @Word, @Quote, @Start, @End, @Plus//EC, @Minus//EC, ScanningIterator//EC, @RotatingLine//EC, @Move, @Pass, @Fail, @Say, @RotateLeftArm//EC, @RotateRightArm//EC, @Repeat//EC, @Define//EC, @Call//EC, @Thread//EC, @Wait//EC, @ProceedAll//EC, @Sleep//EC, @Undo//EC, @Redo//EC, @Angle, @Avatar, @BridgeScene, @Locatable, @BoundedShape, @Table, @CommandInterpreter, @SignedMoveCommandInterpreter//EC, @ErrorResilientCommandInterpreter//EC, @ConsoleSceneView, @InheritingBridgeScenePainter, @ObservableBridgeScenePainter, @DelegatingBridgeSceneView, @PaintListener, @BridgeSceneController, @CommandInterpreterView//EC, @CommandInterpreterController//EC, @ObservableCommandInterpreter//EC, @Token, @SingletonsCreator, @ProgressBarCreator//EC]
+32,Sun Dec 04 21:01:07 EST 2016,true,main\Assignment9.java,illegalTypeImported,Assignment9,grail.CommandInterpreterImpl,Assignment9
+32,Sun Dec 04 21:01:07 EST 2016,true,main\Assignment9.java,illegalTypeImported,Assignment9,grail.SingletonsCreator,Assignment9
+32,Sun Dec 04 21:01:07 EST 2016,true,main\Assignment9.java,illegalTypeImported,Assignment9,mp.bridgeScene.AvatarImpl,Assignment9
+32,Sun Dec 04 21:01:07 EST 2016,true,main\Assignment9.java,illegalTypeImported,Assignment9,mp.bridgeScene.BridgeSceneImpl,Assignment9
+32,Sun Dec 04 21:01:07 EST 2016,true,main\Assignment9.java,illegalTypeImported,Assignment9,mp.shapes.StringShapeImpl,Assignment9
+32,Sun Dec 04 21:01:07 EST 2016,true,main\Assignment9.java,illegalTypeImported,Assignment9,mp.views.BridgeScenePainterImpl,Assignment9
+32,Sun Dec 04 21:01:07 EST 2016,true,main\Assignment9.java,magic.number,Assignment9,7,EXPR 7
+33,Sun Dec 04 23:15:19 EST 2016,true,grail\tokens\NumberTokenImpl.java,typeDefined,NumberTokenImpl,No Expected Tag
+33,Sun Dec 04 23:15:19 EST 2016,true,grail\tokens\WordToken.java,typeDefined,WordToken,No Expected Tag
+33,Sun Dec 04 23:15:19 EST 2016,true,mp\bridgeScene\GorgeAndBridge.java,typeDefined,GorgeAndBridge,No Expected Tag
+33,Sun Dec 04 23:15:19 EST 2016,true,grail\TableImpl.java,typeDefined,TableImpl,No Expected Tag
+33,Sun Dec 04 23:15:19 EST 2016,true,mp\shapes\StringShape.java,typeDefined,StringShape,No Expected Tag
+33,Sun Dec 04 23:15:20 EST 2016,true,grail\tokens\QuotedStringToken.java,typeDefined,QuotedStringToken,No Expected Tag
+33,Sun Dec 04 23:15:20 EST 2016,true,mp\views\BridgeScenePainter.java,typeDefined,BridgeScenePainter,No Expected Tag
+33,Sun Dec 04 23:15:20 EST 2016,true,mp\views\GuardView.java,typeDefined,GuardView,No Expected Tag
+33,Sun Dec 04 23:15:21 EST 2016,true,mp\bridgeScene\Avatar.java,typeDefined,Avatar,No Expected Tag
+33,Sun Dec 04 23:15:21 EST 2016,true,grail\commands\UndoCommand.java,typeDefined,UndoCommand,No Expected Tag
+33,Sun Dec 04 23:15:21 EST 2016,true,mp\views\DelegatingBridgeSceneViewImpl.java,typeDefined,DelegatingBridgeSceneViewImpl,No Expected Tag
+33,Sun Dec 04 23:15:21 EST 2016,true,grail\commands\RotateLeftArmCommand.java,typeDefined,RotateLeftArmCommand,No Expected Tag
+33,Sun Dec 04 23:15:21 EST 2016,true,mp\shapes\StringShapeImpl.java,typeDefined,StringShapeImpl,No Expected Tag
+33,Sun Dec 04 23:15:21 EST 2016,true,mp\shapes\BoundedShape.java,typeDefined,BoundedShape,No Expected Tag
+33,Sun Dec 04 23:15:21 EST 2016,true,mp\bridgeScene\BridgeSceneImpl.java,typeDefined,BridgeSceneImpl,No Expected Tag
+33,Sun Dec 04 23:15:21 EST 2016,true,grail\commands\CallCommand.java,typeDefined,CallCommand,No Expected Tag
+33,Sun Dec 04 23:15:21 EST 2016,true,grail\tokens\TokenImpl.java,typeDefined,TokenImpl,No Expected Tag
+33,Sun Dec 04 23:15:21 EST 2016,true,grail\commands\RotateRightArmCommand.java,typeDefined,RotateRightArmCommand,No Expected Tag
+33,Sun Dec 04 23:15:21 EST 2016,true,mp\shapes\AngleShapeImpl.java,typeDefined,AngleShapeImpl,No Expected Tag
+33,Sun Dec 04 23:15:21 EST 2016,true,grail\commands\SayCommand.java,typeDefined,SayCommand,No Expected Tag
+33,Sun Dec 04 23:15:21 EST 2016,true,grail\tokens\WordTokenImpl.java,typeDefined,WordTokenImpl,No Expected Tag
+33,Sun Dec 04 23:15:21 EST 2016,true,mp\views\GalahadView.java,typeDefined,GalahadView,No Expected Tag
+33,Sun Dec 04 23:15:21 EST 2016,true,mp\views\RobinView.java,typeDefined,RobinView,No Expected Tag
+33,Sun Dec 04 23:15:21 EST 2016,true,grail\tokens\PlusToken.java,typeDefined,PlusToken,No Expected Tag
+33,Sun Dec 04 23:15:21 EST 2016,true,grail\commands\FailCommand.java,typeDefined,FailCommand,No Expected Tag
+33,Sun Dec 04 23:15:21 EST 2016,true,mp\views\ArthurView.java,typeDefined,ArthurView,No Expected Tag
+33,Sun Dec 04 23:15:21 EST 2016,true,grail\commands\ApproachCommand.java,typeDefined,ApproachCommand,No Expected Tag
+33,Sun Dec 04 23:15:21 EST 2016,true,mp\shapes\ImageImpl.java,typeDefined,ImageImpl,No Expected Tag
+33,Sun Dec 04 23:15:21 EST 2016,true,grail\tokens\EndToken.java,typeDefined,EndToken,No Expected Tag
+33,Sun Dec 04 23:15:21 EST 2016,true,grail\commands\SleepCommand.java,typeDefined,SleepCommand,No Expected Tag
+33,Sun Dec 04 23:15:21 EST 2016,true,mp\views\AvatarView.java,typeDefined,AvatarView,No Expected Tag
+33,Sun Dec 04 23:15:21 EST 2016,true,grail\commands\ProceedAllCommand.java,typeDefined,ProceedAllCommand,No Expected Tag
+33,Sun Dec 04 23:15:21 EST 2016,true,grail\tokens\Token.java,typeDefined,Token,No Expected Tag
+33,Sun Dec 04 23:15:22 EST 2016,true,mp\bridgeScene\GorgeAndBridgeImpl.java,typeDefined,GorgeAndBridgeImpl,No Expected Tag
+33,Sun Dec 04 23:15:22 EST 2016,true,grail\commands\WaitCommand.java,typeDefined,WaitCommand,No Expected Tag
+33,Sun Dec 04 23:15:22 EST 2016,true,grail\commands\ThreadCommand.java,typeDefined,ThreadCommand,No Expected Tag
+33,Sun Dec 04 23:15:22 EST 2016,true,mp\views\ConsoleSceneView.java,typeDefined,ConsoleSceneView,No Expected Tag
+33,Sun Dec 04 23:15:22 EST 2016,true,grail\ScanStringImpl.java,typeDefined,ScanStringImpl,No Expected Tag
+33,Sun Dec 04 23:15:22 EST 2016,true,mp\views\DelegatingBridgeSceneView.java,typeDefined,DelegatingBridgeSceneView,No Expected Tag
+33,Sun Dec 04 23:15:22 EST 2016,true,mp\views\BridgeSceneController.java,typeDefined,BridgeSceneController,No Expected Tag
+33,Sun Dec 04 23:15:22 EST 2016,true,mp\views\BridgeSceneControllerImpl.java,typeDefined,BridgeSceneControllerImpl,No Expected Tag
+33,Sun Dec 04 23:15:22 EST 2016,true,mp\shapes\Locatable.java,typeDefined,Locatable,No Expected Tag
+33,Sun Dec 04 23:15:22 EST 2016,true,mp\shapes\Oval.java,typeDefined,Oval,No Expected Tag
+33,Sun Dec 04 23:15:22 EST 2016,true,mp\views\PaintListenerImpl.java,typeDefined,PaintListenerImpl,No Expected Tag
+33,Sun Dec 04 23:15:22 EST 2016,true,mp\shapes\LineImpl.java,typeDefined,LineImpl,No Expected Tag
+33,Sun Dec 04 23:15:22 EST 2016,true,grail\tokens\StartToken.java,typeDefined,StartToken,No Expected Tag
+33,Sun Dec 04 23:15:22 EST 2016,true,mp\bridgeScene\BridgeScene.java,typeDefined,BridgeScene,No Expected Tag
+33,Sun Dec 04 23:15:22 EST 2016,true,grail\tokens\NumberToken.java,typeDefined,NumberToken,No Expected Tag
+33,Sun Dec 04 23:15:22 EST 2016,true,grail\tokens\MinusToken.java,typeDefined,MinusToken,No Expected Tag
+33,Sun Dec 04 23:15:22 EST 2016,true,grail\commands\MoveCommand.java,typeDefined,MoveCommand,No Expected Tag
+33,Sun Dec 04 23:15:22 EST 2016,true,grail\CommandInterpreterImpl.java,typeDefined,CommandInterpreterImpl,No Expected Tag
+33,Sun Dec 04 23:15:22 EST 2016,true,grail\commands\PassCommand.java,typeDefined,PassCommand,No Expected Tag
+33,Sun Dec 04 23:15:22 EST 2016,true,mp\views\BackgroundView.java,typeDefined,BackgroundView,No Expected Tag
+33,Sun Dec 04 23:15:22 EST 2016,true,mp\shapes\OvalImpl.java,typeDefined,OvalImpl,No Expected Tag
+33,Sun Dec 04 23:15:23 EST 2016,true,grail\CommandInterpreter.java,typeDefined,CommandInterpreter,No Expected Tag
+33,Sun Dec 04 23:15:23 EST 2016,true,grail\commands\RepeatCommand.java,typeDefined,RepeatCommand,No Expected Tag
+33,Sun Dec 04 23:15:23 EST 2016,true,mp\bridgeScene\AvatarImpl.java,typeDefined,AvatarImpl,No Expected Tag
+33,Sun Dec 04 23:15:23 EST 2016,true,mp\views\BridgeScenePainterImpl.java,typeDefined,BridgeScenePainterImpl,No Expected Tag
+33,Sun Dec 04 23:15:23 EST 2016,true,grail\commands\RedoCommand.java,typeDefined,RedoCommand,No Expected Tag
+33,Sun Dec 04 23:15:23 EST 2016,true,mp\shapes\BoundedShapeImpl.java,typeDefined,BoundedShapeImpl,No Expected Tag
+33,Sun Dec 04 23:15:23 EST 2016,true,grail\ScanString.java,typeDefined,ScanString,No Expected Tag
+33,Sun Dec 04 23:15:23 EST 2016,true,mp\shapes\AngleShape.java,typeDefined,AngleShape,No Expected Tag
+33,Sun Dec 04 23:15:23 EST 2016,true,mp\shapes\LocatableImpl.java,typeDefined,LocatableImpl,No Expected Tag
+33,Sun Dec 04 23:15:23 EST 2016,true,mp\views\LancelotView.java,typeDefined,LancelotView,No Expected Tag
+33,Sun Dec 04 23:15:23 EST 2016,true,grail\Table.java,typeDefined,Table,No Expected Tag
+33,Sun Dec 04 23:15:23 EST 2016,true,mp\shapes\Image.java,typeDefined,Image,No Expected Tag
+33,Sun Dec 04 23:15:23 EST 2016,true,grail\commands\DefineCommand.java,typeDefined,DefineCommand,No Expected Tag
+34,Sun Dec 04 23:16:05 EST 2016,true,main\Assignment10.java,typeDefined,Assignment10,No Expected Tag
+35,Sun Dec 04 23:28:16 EST 2016,true,mp\bridgeScene\BridgeScene.java,typeDefined,BridgeScene,@BridgeScene
+39,Sun Dec 04 23:34:55 EST 2016,true,mp\bridgeScene\BridgeSceneImpl.java,typeDefined,BridgeSceneImpl,@BridgeScene
+47,Mon Dec 05 00:03:17 EST 2016,true,mp\views\ConsoleSceneView.java,typeDefined,ConsoleSceneView,@ConsoleSceneView
+48,Mon Dec 05 00:07:39 EST 2016,true,grail\commands\RunnableSayCommand.java,typeDefined,RunnableSayCommand,No Expected Tag
+49,Mon Dec 05 00:07:57 EST 2016,true,grail\commands\RunnableMoveCommand.java,typeDefined,RunnableMoveCommand,No Expected Tag
+57,Mon Dec 05 00:40:42 EST 2016,true,grail\CommandInterpreter.java,typeDefined,CommandInterpreter,@CommandInterpreter
+66,Mon Dec 05 02:29:46 EST 2016,true,grail\Animator.java,typeDefined,Animator,No Expected Tag
+67,Mon Dec 05 02:29:56 EST 2016,true,grail\AnimatingCommand.java,typeDefined,AnimatingCommand,No Expected Tag
+90,Mon Dec 05 03:38:24 EST 2016,true,mp\bridgeScene\BridgeScene.java,expectedTypes,[main.Assignment9, @ScannerBean, @Number, @Word, @Quote, @Start, @End, @Plus//EC, @Minus//EC, ScanningIterator//EC, @RotatingLine//EC, @Move, @Pass, @Fail, @Say, @RotateLeftArm//EC, @RotateRightArm//EC, @Repeat//EC, @Define//EC, @Call//EC, @Thread//EC, @Wait//EC, @ProceedAll//EC, @Sleep//EC, @Undo//EC, @Redo//EC, @Angle, @Avatar, @BridgeScene, @Locatable, @BoundedShape, @Table, @CommandInterpreter, @SignedMoveCommandInterpreter//EC, @ErrorResilientCommandInterpreter//EC, @ConsoleSceneView, @InheritingBridgeScenePainter, @ObservableBridgeScenePainter, @DelegatingBridgeSceneView, @PaintListener, @BridgeSceneController, @CommandInterpreterView//EC, @CommandInterpreterController//EC, @ObservableCommandInterpreter//EC, @Token, @SingletonsCreator, @ProgressBarCreator//EC]
+90,Mon Dec 05 03:38:24 EST 2016,true,mp\bridgeScene\BridgeScene.java,illegalTypeImported,BridgeScene,mp.shapes.Image,BridgeScene
+90,Mon Dec 05 03:38:24 EST 2016,true,mp\bridgeScene\BridgeScene.java,illegalTypeImported,BridgeScene,mp.shapes.Oval,BridgeScene
+90,Mon Dec 05 03:38:24 EST 2016,true,mp\bridgeScene\BridgeScene.java,illegalTypeImported,BridgeScene,mp.shapes.OvalImpl,BridgeScene
+90,Mon Dec 05 03:38:24 EST 2016,true,mp\bridgeScene\BridgeScene.java,illegalTypeImported,BridgeScene,mp.shapes.StringShapeImpl,BridgeScene
+90,Mon Dec 05 03:38:24 EST 2016,true,mp\bridgeScene\BridgeScene.java,expectedDeclaredSignatures,BridgeScene,@scroll:int;int->*,BridgeScene
+90,Mon Dec 05 03:38:24 EST 2016,true,main\Assignment10.java,illegalTypeImported,Assignment10,grail.CommandInterpreterImpl,Assignment10
+90,Mon Dec 05 03:38:24 EST 2016,true,main\Assignment10.java,illegalTypeImported,Assignment10,grail.SingletonsCreator,Assignment10
+90,Mon Dec 05 03:38:24 EST 2016,true,main\Assignment10.java,illegalTypeImported,Assignment10,mp.bridgeScene.AvatarImpl,Assignment10
+90,Mon Dec 05 03:38:24 EST 2016,true,main\Assignment10.java,illegalTypeImported,Assignment10,mp.bridgeScene.BridgeSceneImpl,Assignment10
+90,Mon Dec 05 03:38:24 EST 2016,true,main\Assignment10.java,illegalTypeImported,Assignment10,mp.shapes.StringShapeImpl,Assignment10
+90,Mon Dec 05 03:38:24 EST 2016,true,main\Assignment10.java,illegalTypeImported,Assignment10,mp.views.BridgeScenePainterImpl,Assignment10
+91,Mon Dec 05 03:39:38 EST 2016,false,BridgeSceneControllerImpl,typeDefined,BridgeSceneControllerImpl,No Expected Tag
+91,Mon Dec 05 03:39:38 EST 2016,false,BoundedShape,typeDefined,BoundedShape,No Expected Tag
+91,Mon Dec 05 03:39:38 EST 2016,false,OvalImpl,typeDefined,OvalImpl,No Expected Tag
+91,Mon Dec 05 03:39:38 EST 2016,false,CallCommand,typeDefined,CallCommand,No Expected Tag
+91,Mon Dec 05 03:39:38 EST 2016,false,TableImpl,typeDefined,TableImpl,No Expected Tag
+91,Mon Dec 05 03:39:38 EST 2016,false,SayCommand,typeDefined,SayCommand,No Expected Tag
+91,Mon Dec 05 03:39:38 EST 2016,false,Token,typeDefined,Token,No Expected Tag
+91,Mon Dec 05 03:39:38 EST 2016,false,BoundedShapeImpl,typeDefined,BoundedShapeImpl,No Expected Tag
+91,Mon Dec 05 03:39:38 EST 2016,false,Image,typeDefined,Image,No Expected Tag
+91,Mon Dec 05 03:39:38 EST 2016,false,WordToken,typeDefined,WordToken,No Expected Tag
+91,Mon Dec 05 03:39:38 EST 2016,false,RunnableMoveCommand,typeDefined,RunnableMoveCommand,No Expected Tag
+91,Mon Dec 05 03:39:38 EST 2016,false,BridgeScene,typeDefined,BridgeScene,No Expected Tag
+91,Mon Dec 05 03:39:38 EST 2016,false,BridgeScenePainterImpl,typeDefined,BridgeScenePainterImpl,No Expected Tag
+91,Mon Dec 05 03:39:38 EST 2016,false,GuardView,typeDefined,GuardView,No Expected Tag
+91,Mon Dec 05 03:39:38 EST 2016,false,ApproachCommand,typeDefined,ApproachCommand,No Expected Tag
+91,Mon Dec 05 03:39:38 EST 2016,false,NumberTokenImpl,typeDefined,NumberTokenImpl,No Expected Tag
+91,Mon Dec 05 03:39:38 EST 2016,false,UndoCommand,typeDefined,UndoCommand,No Expected Tag
+91,Mon Dec 05 03:39:38 EST 2016,false,CommandInterpreter,typeDefined,CommandInterpreter,@CommandInterpreter
+91,Mon Dec 05 03:39:38 EST 2016,false,CommandInterpreter,typeDefined,CommandInterpreter,No Expected Tag
+91,Mon Dec 05 03:39:38 EST 2016,false,ConsoleSceneView,typeDefined,ConsoleSceneView,@ConsoleSceneView
+91,Mon Dec 05 03:39:38 EST 2016,false,ConsoleSceneView,typeDefined,ConsoleSceneView,No Expected Tag
+91,Mon Dec 05 03:39:38 EST 2016,false,StartToken,typeDefined,StartToken,No Expected Tag
+91,Mon Dec 05 03:39:38 EST 2016,false,QuotedStringToken,typeDefined,QuotedStringToken,No Expected Tag
+91,Mon Dec 05 03:39:38 EST 2016,false,RunTests,typeDefined,RunTests,No Expected Tag
+91,Mon Dec 05 03:39:38 EST 2016,false,GalahadView,typeDefined,GalahadView,No Expected Tag
+91,Mon Dec 05 03:39:38 EST 2016,false,AnimatingCommand,typeDefined,AnimatingCommand,No Expected Tag
+91,Mon Dec 05 03:39:38 EST 2016,false,AngleShapeImpl,typeDefined,AngleShapeImpl,No Expected Tag
+91,Mon Dec 05 03:39:38 EST 2016,false,Line,typeDefined,Line,No Expected Tag
+91,Mon Dec 05 03:39:38 EST 2016,false,DelegatingBridgeSceneViewImpl,typeDefined,DelegatingBridgeSceneViewImpl,No Expected Tag
+91,Mon Dec 05 03:39:38 EST 2016,false,RotateLeftArmCommand,typeDefined,RotateLeftArmCommand,No Expected Tag
+91,Mon Dec 05 03:39:38 EST 2016,false,CommandInterpreterImpl,typeDefined,CommandInterpreterImpl,No Expected Tag
+91,Mon Dec 05 03:39:38 EST 2016,false,RedoCommand,typeDefined,RedoCommand,No Expected Tag
+91,Mon Dec 05 03:39:38 EST 2016,false,MinusToken,typeDefined,MinusToken,No Expected Tag
+91,Mon Dec 05 03:39:38 EST 2016,false,Locatable,typeDefined,Locatable,No Expected Tag
+91,Mon Dec 05 03:39:38 EST 2016,false,Assignment9,typeDefined,Assignment9,main.Assignment9
+91,Mon Dec 05 03:39:38 EST 2016,false,Assignment9,illegalTypeImported,Assignment9,mp.shapes.StringShapeImpl,Assignment9
+91,Mon Dec 05 03:39:38 EST 2016,false,Assignment9,illegalTypeImported,Assignment9,mp.bridgeScene.AvatarImpl,Assignment9
+91,Mon Dec 05 03:39:38 EST 2016,false,Assignment9,illegalTypeImported,Assignment9,mp.bridgeScene.BridgeSceneImpl,Assignment9
+91,Mon Dec 05 03:39:38 EST 2016,false,Assignment9,illegalTypeImported,Assignment9,grail.SingletonsCreator,Assignment9
+91,Mon Dec 05 03:39:38 EST 2016,false,Assignment9,illegalTypeImported,Assignment9,grail.CommandInterpreterImpl,Assignment9
+91,Mon Dec 05 03:39:38 EST 2016,false,Assignment9,illegalTypeImported,Assignment9,mp.views.BridgeScenePainterImpl,Assignment9
+91,Mon Dec 05 03:39:38 EST 2016,false,Assignment9,magic.number,Assignment9,7,EXPR 7
+91,Mon Dec 05 03:39:38 EST 2016,false,PaintListenerImpl,typeDefined,PaintListenerImpl,No Expected Tag
+91,Mon Dec 05 03:39:38 EST 2016,false,StringShape,typeDefined,StringShape,No Expected Tag
+91,Mon Dec 05 03:39:38 EST 2016,false,TokenImpl,typeDefined,TokenImpl,No Expected Tag
+91,Mon Dec 05 03:39:38 EST 2016,false,BridgeScenePainter,typeDefined,BridgeScenePainter,No Expected Tag
+91,Mon Dec 05 03:39:38 EST 2016,false,RunnableSayCommand,typeDefined,RunnableSayCommand,No Expected Tag
+91,Mon Dec 05 03:39:38 EST 2016,false,LocatableImpl,typeDefined,LocatableImpl,No Expected Tag
+91,Mon Dec 05 03:39:38 EST 2016,false,GorgeAndBridge,typeDefined,GorgeAndBridge,No Expected Tag
+91,Mon Dec 05 03:39:38 EST 2016,false,LancelotView,typeDefined,LancelotView,No Expected Tag
+91,Mon Dec 05 03:39:38 EST 2016,false,AngleShape,typeDefined,AngleShape,No Expected Tag
+91,Mon Dec 05 03:39:38 EST 2016,false,BackgroundView,typeDefined,BackgroundView,No Expected Tag
+91,Mon Dec 05 03:39:38 EST 2016,false,ScanString,typeDefined,ScanString,No Expected Tag
+91,Mon Dec 05 03:39:38 EST 2016,false,DefineCommand,typeDefined,DefineCommand,No Expected Tag
+91,Mon Dec 05 03:39:38 EST 2016,false,StringShapeImpl,typeDefined,StringShapeImpl,No Expected Tag
+91,Mon Dec 05 03:39:38 EST 2016,false,PassCommand,typeDefined,PassCommand,No Expected Tag
+91,Mon Dec 05 03:39:38 EST 2016,false,BridgeSceneImpl,typeDefined,BridgeSceneImpl,@BridgeScene
+91,Mon Dec 05 03:39:38 EST 2016,false,BridgeSceneImpl,typeDefined,BridgeSceneImpl,No Expected Tag
+91,Mon Dec 05 03:39:38 EST 2016,false,Oval,typeDefined,Oval,No Expected Tag
+91,Mon Dec 05 03:39:38 EST 2016,false,NumberToken,typeDefined,NumberToken,No Expected Tag
+91,Mon Dec 05 03:39:38 EST 2016,false,RotateRightArmCommand,typeDefined,RotateRightArmCommand,No Expected Tag
+91,Mon Dec 05 03:39:38 EST 2016,false,RobinView,typeDefined,RobinView,No Expected Tag
+91,Mon Dec 05 03:39:38 EST 2016,false,WordTokenImpl,typeDefined,WordTokenImpl,No Expected Tag
+91,Mon Dec 05 03:39:38 EST 2016,false,ArthurView,typeDefined,ArthurView,No Expected Tag
+91,Mon Dec 05 03:39:38 EST 2016,false,BridgeSceneController,typeDefined,BridgeSceneController,No Expected Tag
+91,Mon Dec 05 03:39:38 EST 2016,false,Table,typeDefined,Table,No Expected Tag
+91,Mon Dec 05 03:39:38 EST 2016,false,FailCommand,typeDefined,FailCommand,No Expected Tag
+91,Mon Dec 05 03:39:38 EST 2016,false,EndToken,typeDefined,EndToken,No Expected Tag
+91,Mon Dec 05 03:39:38 EST 2016,false,ProceedAllCommand,typeDefined,ProceedAllCommand,No Expected Tag
+91,Mon Dec 05 03:39:38 EST 2016,false,GorgeAndBridgeImpl,typeDefined,GorgeAndBridgeImpl,No Expected Tag
+91,Mon Dec 05 03:39:38 EST 2016,false,[main.Assignment9,expectedTypes,[main.Assignment9, @ScannerBean, @Number, @Word, @Quote, @Start, @End, @Plus//EC, @Minus//EC, ScanningIterator//EC, @RotatingLine//EC, @Move, @Pass, @Fail, @Say, @RotateLeftArm//EC, @RotateRightArm//EC, @Repeat//EC, @Define//EC, @Call//EC, @Thread//EC, @Wait//EC, @ProceedAll//EC, @Sleep//EC, @Undo//EC, @Redo//EC, @Angle, @Avatar, @BridgeScene, @Locatable, @BoundedShape, @Table, @CommandInterpreter, @SignedMoveCommandInterpreter//EC, @ErrorResilientCommandInterpreter//EC, @ConsoleSceneView, @InheritingBridgeScenePainter, @ObservableBridgeScenePainter, @DelegatingBridgeSceneView, @PaintListener, @BridgeSceneController, @CommandInterpreterView//EC, @CommandInterpreterController//EC, @ObservableCommandInterpreter//EC, @Token, @SingletonsCreator, @ProgressBarCreator//EC]
+91,Mon Dec 05 03:39:38 EST 2016,false,Avatar,typeDefined,Avatar,No Expected Tag
+91,Mon Dec 05 03:39:38 EST 2016,false,ImageImpl,typeDefined,ImageImpl,No Expected Tag
+91,Mon Dec 05 03:39:38 EST 2016,false,SingletonsCreator,typeDefined,SingletonsCreator,No Expected Tag
+91,Mon Dec 05 03:39:38 EST 2016,false,WaitCommand,typeDefined,WaitCommand,No Expected Tag
+91,Mon Dec 05 03:39:38 EST 2016,false,Animator,typeDefined,Animator,No Expected Tag
+91,Mon Dec 05 03:39:38 EST 2016,false,PlusToken,typeDefined,PlusToken,No Expected Tag
+91,Mon Dec 05 03:39:38 EST 2016,false,AvatarView,typeDefined,AvatarView,No Expected Tag
+91,Mon Dec 05 03:39:38 EST 2016,false,DelegatingBridgeSceneView,typeDefined,DelegatingBridgeSceneView,No Expected Tag
+91,Mon Dec 05 03:39:38 EST 2016,false,MoveCommand,typeDefined,MoveCommand,No Expected Tag
+91,Mon Dec 05 03:39:38 EST 2016,false,LineImpl,typeDefined,LineImpl,No Expected Tag
+91,Mon Dec 05 03:39:38 EST 2016,false,SleepCommand,typeDefined,SleepCommand,No Expected Tag
+91,Mon Dec 05 03:39:38 EST 2016,false,RepeatCommand,typeDefined,RepeatCommand,No Expected Tag
+91,Mon Dec 05 03:39:38 EST 2016,false,AvatarImpl,typeDefined,AvatarImpl,No Expected Tag
+91,Mon Dec 05 03:39:38 EST 2016,false,ThreadCommand,typeDefined,ThreadCommand,No Expected Tag
+91,Mon Dec 05 03:39:38 EST 2016,false,ScanStringImpl,typeDefined,ScanStringImpl,No Expected Tag
+92,Mon Dec 05 03:41:48 EST 2016,true,grail\CommandInterpreterImpl.java,typeDefined,CommandInterpreterImpl,@CommandInterpreter
+95,Mon Dec 05 03:46:21 EST 2016,true,grail\CommandInterpreter.java,typeDefined,CommandInterpreter,@CommandInterpreter
+96,Mon Dec 05 03:46:32 EST 2016,true,main\Assignment10.java,expectedTypes,[main.Assignment9, @ScannerBean, @Number, @Word, @Quote, @Start, @End, @Plus//EC, @Minus//EC, ScanningIterator//EC, @RotatingLine//EC, @Move, @Pass, @Fail, @Say, @RotateLeftArm//EC, @RotateRightArm//EC, @Repeat//EC, @Define//EC, @Call//EC, @Thread//EC, @Wait//EC, @ProceedAll//EC, @Sleep//EC, @Undo//EC, @Redo//EC, @Angle, @Avatar, @BridgeScene, @Locatable, @BoundedShape, @Table, @CommandInterpreter, @SignedMoveCommandInterpreter//EC, @ErrorResilientCommandInterpreter//EC, @ConsoleSceneView, @InheritingBridgeScenePainter, @ObservableBridgeScenePainter, @DelegatingBridgeSceneView, @PaintListener, @BridgeSceneController, @CommandInterpreterView//EC, @CommandInterpreterController//EC, @ObservableCommandInterpreter//EC, @Token, @SingletonsCreator, @ProgressBarCreator//EC]
+97,Mon Dec 05 03:48:51 EST 2016,false,BridgeScene,illegalTypeImported,BridgeScene,mp.shapes.OvalImpl,BridgeScene
+97,Mon Dec 05 03:48:51 EST 2016,false,BridgeScene,illegalTypeImported,BridgeScene,mp.shapes.Image,BridgeScene
+97,Mon Dec 05 03:48:51 EST 2016,false,BridgeScene,illegalTypeImported,BridgeScene,mp.shapes.Oval,BridgeScene
+97,Mon Dec 05 03:48:51 EST 2016,false,BridgeScene,typeDefined,BridgeScene,@BridgeScene
+97,Mon Dec 05 03:48:51 EST 2016,false,BridgeScene,expectedDeclaredSignatures,BridgeScene,@scroll:int;int->*,BridgeScene
+97,Mon Dec 05 03:48:51 EST 2016,false,BridgeScene,illegalTypeImported,BridgeScene,mp.shapes.StringShapeImpl,BridgeScene
+97,Mon Dec 05 03:48:51 EST 2016,false,CommandInterpreter,typeDefined,CommandInterpreter,@CommandInterpreter
+97,Mon Dec 05 03:48:51 EST 2016,false,CommandInterpreterImpl,typeDefined,CommandInterpreterImpl,@CommandInterpreter
+97,Mon Dec 05 03:48:51 EST 2016,false,mp\bridgeScene\BridgeScene.java,expectedTypes,[main.Assignment9, @ScannerBean, @Number, @Word, @Quote, @Start, @End, @Plus//EC, @Minus//EC, ScanningIterator//EC, @RotatingLine//EC, @Move, @Pass, @Fail, @Say, @RotateLeftArm//EC, @RotateRightArm//EC, @Repeat//EC, @Define//EC, @Call//EC, @Thread//EC, @Wait//EC, @ProceedAll//EC, @Sleep//EC, @Undo//EC, @Redo//EC, @Angle, @Avatar, @BridgeScene, @Locatable, @BoundedShape, @Table, @CommandInterpreter, @SignedMoveCommandInterpreter//EC, @ErrorResilientCommandInterpreter//EC, @ConsoleSceneView, @InheritingBridgeScenePainter, @ObservableBridgeScenePainter, @DelegatingBridgeSceneView, @PaintListener, @BridgeSceneController, @CommandInterpreterView//EC, @CommandInterpreterController//EC, @ObservableCommandInterpreter//EC, @Token, @SingletonsCreator, @ProgressBarCreator//EC]
+97,Mon Dec 05 03:48:51 EST 2016,true,grail\CommandInterpreter.java,typeDefined,CommandInterpreter,@CommandInterpreter
+98,Mon Dec 05 03:51:21 EST 2016,true,grail\Animator.java,typeDefined,Animator,No Expected Tag
+100,Mon Dec 05 03:55:06 EST 2016,true,grail\Animator.java,expectedTypes,[main.Assignment9, @ScannerBean, @Number, @Word, @Quote, @Start, @End, @Plus//EC, @Minus//EC, ScanningIterator//EC, @RotatingLine//EC, @Move, @Pass, @Fail, @Say, @RotateLeftArm//EC, @RotateRightArm//EC, @Repeat//EC, @Define//EC, @Call//EC, @Thread//EC, @Wait//EC, @ProceedAll//EC, @Sleep//EC, @Undo//EC, @Redo//EC, @Angle, @Avatar, @BridgeScene, @Locatable, @BoundedShape, @Table, @CommandInterpreter, @SignedMoveCommandInterpreter//EC, @ErrorResilientCommandInterpreter//EC, @ConsoleSceneView, @InheritingBridgeScenePainter, @ObservableBridgeScenePainter, @DelegatingBridgeSceneView, @PaintListener, @BridgeSceneController, @CommandInterpreterView//EC, @CommandInterpreterController//EC, @ObservableCommandInterpreter//EC, @Token, @SingletonsCreator, @ProgressBarCreator//EC]
+100,Mon Dec 05 03:55:06 EST 2016,true,grail\Animator.java,illegalTypeImported,Animator,mp.bridgeScene.AvatarImpl,Animator
+100,Mon Dec 05 03:55:06 EST 2016,true,grail\Animator.java,magic.number,Animator,4,4
+100,Mon Dec 05 03:55:06 EST 2016,true,grail\Animator.java,magic.number,Animator,1000,EXPR 1000
+100,Mon Dec 05 03:55:06 EST 2016,true,grail\Animator.java,classHasAtLeastOneInterface,Animator,grail.Animator
+101,Mon Dec 05 03:56:53 EST 2016,false,main\Assignment10.java,expectedTypes,[main.Assignment9, @ScannerBean, @Number, @Word, @Quote, @Start, @End, @Plus//EC, @Minus//EC, ScanningIterator//EC, @RotatingLine//EC, @Move, @Pass, @Fail, @Say, @RotateLeftArm//EC, @RotateRightArm//EC, @Repeat//EC, @Define//EC, @Call//EC, @Thread//EC, @Wait//EC, @ProceedAll//EC, @Sleep//EC, @Undo//EC, @Redo//EC, @Angle, @Avatar, @BridgeScene, @Locatable, @BoundedShape, @Table, @CommandInterpreter, @SignedMoveCommandInterpreter//EC, @ErrorResilientCommandInterpreter//EC, @ConsoleSceneView, @InheritingBridgeScenePainter, @ObservableBridgeScenePainter, @DelegatingBridgeSceneView, @PaintListener, @BridgeSceneController, @CommandInterpreterView//EC, @CommandInterpreterController//EC, @ObservableCommandInterpreter//EC, @Token, @SingletonsCreator, @ProgressBarCreator//EC]
+101,Mon Dec 05 03:56:53 EST 2016,false,CommandInterpreter,typeDefined,CommandInterpreter,@CommandInterpreter
+101,Mon Dec 05 03:56:53 EST 2016,false,Assignment10,illegalTypeImported,Assignment10,mp.bridgeScene.AvatarImpl,Assignment10
+101,Mon Dec 05 03:56:53 EST 2016,false,Assignment10,illegalTypeImported,Assignment10,mp.bridgeScene.BridgeSceneImpl,Assignment10
+101,Mon Dec 05 03:56:53 EST 2016,false,Assignment10,typeDefined,Assignment10,No Expected Tag
+101,Mon Dec 05 03:56:53 EST 2016,false,Assignment10,illegalTypeImported,Assignment10,grail.CommandInterpreterImpl,Assignment10
+101,Mon Dec 05 03:56:53 EST 2016,false,Assignment10,illegalTypeImported,Assignment10,mp.views.BridgeScenePainterImpl,Assignment10
+101,Mon Dec 05 03:56:53 EST 2016,false,Assignment10,illegalTypeImported,Assignment10,grail.SingletonsCreator,Assignment10
+101,Mon Dec 05 03:56:53 EST 2016,false,Assignment10,illegalTypeImported,Assignment10,mp.shapes.StringShapeImpl,Assignment10
+103,Mon Dec 05 03:58:45 EST 2016,true,main\Assignment10.java,typeDefined,Assignment10,No Expected Tag
+104,Mon Dec 05 04:02:20 EST 2016,true,mp\bridgeScene\BridgeScene.java,typeDefined,BridgeScene,@BridgeScene
+106,Mon Dec 05 04:06:28 EST 2016,true,grail\AnimatorImpl.java,typeDefined,AnimatorImpl,No Expected Tag
+109,Mon Dec 05 04:09:04 EST 2016,true,grail\AnimatingCommand.java,typeDefined,AnimatingCommand,No Expected Tag
+110,Mon Dec 05 04:09:35 EST 2016,true,grail\CommandInterpreter.java,typeDefined,CommandInterpreter,@CommandInterpreter
+111,Mon Dec 05 04:12:13 EST 2016,true,main\RunTests.java,typeDefined,RunTests,No Expected Tag
+112,Mon Dec 05 04:16:54 EST 2016,true,grail\commands\RunnableMoveCommand.java,typeDefined,RunnableMoveCommand,No Expected Tag
+112,Mon Dec 05 04:16:55 EST 2016,true,grail\commands\RunnableSayCommand.java,typeDefined,RunnableSayCommand,No Expected Tag
+113,Mon Dec 05 11:13:14 EST 2016,true,mp\views\DelegatingBridgeSceneViewImpl.java,typeDefined,DelegatingBridgeSceneViewImpl,No Expected Tag
+113,Mon Dec 05 11:13:14 EST 2016,true,mp\shapes\BoundedShapeImpl.java,typeDefined,BoundedShapeImpl,No Expected Tag
+113,Mon Dec 05 11:13:14 EST 2016,true,mp\bridgeScene\BridgeScene.java,typeDefined,BridgeScene,No Expected Tag
+113,Mon Dec 05 11:13:14 EST 2016,true,grail\commands\SayCommand.java,typeDefined,SayCommand,No Expected Tag
+113,Mon Dec 05 11:13:14 EST 2016,true,grail\commands\ThreadCommand.java,typeDefined,ThreadCommand,No Expected Tag
+113,Mon Dec 05 11:13:14 EST 2016,true,mp\bridgeScene\AvatarImpl.java,typeDefined,AvatarImpl,No Expected Tag
+113,Mon Dec 05 11:13:14 EST 2016,true,grail\tokens\WordTokenImpl.java,typeDefined,WordTokenImpl,No Expected Tag
+113,Mon Dec 05 11:13:15 EST 2016,true,grail\Table.java,typeDefined,Table,No Expected Tag
+113,Mon Dec 05 11:13:15 EST 2016,true,grail\commands\FailCommand.java,typeDefined,FailCommand,No Expected Tag
+113,Mon Dec 05 11:13:15 EST 2016,true,grail\CommandInterpreterImpl.java,typeDefined,CommandInterpreterImpl,No Expected Tag
+113,Mon Dec 05 11:13:15 EST 2016,true,mp\shapes\Oval.java,typeDefined,Oval,No Expected Tag
+113,Mon Dec 05 11:13:15 EST 2016,true,grail\commands\SleepCommand.java,typeDefined,SleepCommand,No Expected Tag
+113,Mon Dec 05 11:13:15 EST 2016,true,mp\views\ConsoleSceneView.java,typeDefined,ConsoleSceneView,No Expected Tag
+113,Mon Dec 05 11:13:15 EST 2016,true,grail\commands\RepeatCommand.java,typeDefined,RepeatCommand,No Expected Tag
+113,Mon Dec 05 11:13:15 EST 2016,true,mp\views\BridgeSceneController.java,typeDefined,BridgeSceneController,No Expected Tag
+113,Mon Dec 05 11:13:15 EST 2016,true,mp\views\BridgeSceneControllerImpl.java,typeDefined,BridgeSceneControllerImpl,No Expected Tag
+113,Mon Dec 05 11:13:15 EST 2016,true,mp\shapes\LocatableImpl.java,typeDefined,LocatableImpl,No Expected Tag
+113,Mon Dec 05 11:13:15 EST 2016,true,grail\tokens\NumberToken.java,typeDefined,NumberToken,No Expected Tag
+113,Mon Dec 05 11:13:15 EST 2016,true,grail\commands\PassCommand.java,typeDefined,PassCommand,No Expected Tag
+113,Mon Dec 05 11:13:15 EST 2016,true,mp\shapes\AngleShape.java,typeDefined,AngleShape,No Expected Tag
+113,Mon Dec 05 11:13:15 EST 2016,true,grail\tokens\EndToken.java,typeDefined,EndToken,No Expected Tag
+113,Mon Dec 05 11:13:15 EST 2016,true,grail\commands\ProceedAllCommand.java,typeDefined,ProceedAllCommand,No Expected Tag
+113,Mon Dec 05 11:13:15 EST 2016,true,mp\shapes\Locatable.java,typeDefined,Locatable,No Expected Tag
+113,Mon Dec 05 11:13:15 EST 2016,true,grail\commands\MoveCommand.java,typeDefined,MoveCommand,No Expected Tag
+113,Mon Dec 05 11:13:15 EST 2016,true,grail\commands\RedoCommand.java,typeDefined,RedoCommand,No Expected Tag
+113,Mon Dec 05 11:13:15 EST 2016,true,grail\commands\DefineCommand.java,typeDefined,DefineCommand,No Expected Tag
+113,Mon Dec 05 11:13:15 EST 2016,true,mp\shapes\Line.java,typeDefined,Line,No Expected Tag
+113,Mon Dec 05 11:13:15 EST 2016,true,mp\bridgeScene\GorgeAndBridge.java,typeDefined,GorgeAndBridge,No Expected Tag
+113,Mon Dec 05 11:13:15 EST 2016,true,mp\shapes\AngleShapeImpl.java,typeDefined,AngleShapeImpl,No Expected Tag
+113,Mon Dec 05 11:13:15 EST 2016,true,mp\views\LancelotView.java,typeDefined,LancelotView,No Expected Tag
+113,Mon Dec 05 11:13:16 EST 2016,true,grail\tokens\NumberTokenImpl.java,typeDefined,NumberTokenImpl,No Expected Tag
+113,Mon Dec 05 11:13:16 EST 2016,true,mp\shapes\ImageImpl.java,typeDefined,ImageImpl,No Expected Tag
+113,Mon Dec 05 11:13:16 EST 2016,true,mp\views\GuardView.java,typeDefined,GuardView,No Expected Tag
+113,Mon Dec 05 11:13:16 EST 2016,true,mp\shapes\BoundedShape.java,typeDefined,BoundedShape,No Expected Tag
+113,Mon Dec 05 11:13:16 EST 2016,true,mp\bridgeScene\Avatar.java,typeDefined,Avatar,No Expected Tag
+113,Mon Dec 05 11:13:16 EST 2016,true,mp\views\BridgeScenePainter.java,typeDefined,BridgeScenePainter,No Expected Tag
+113,Mon Dec 05 11:13:16 EST 2016,true,grail\tokens\TokenImpl.java,typeDefined,TokenImpl,No Expected Tag
+113,Mon Dec 05 11:13:16 EST 2016,true,grail\CommandInterpreter.java,typeDefined,CommandInterpreter,No Expected Tag
+113,Mon Dec 05 11:13:16 EST 2016,true,mp\views\AvatarView.java,typeDefined,AvatarView,No Expected Tag
+113,Mon Dec 05 11:13:16 EST 2016,true,grail\tokens\StartToken.java,typeDefined,StartToken,No Expected Tag
+113,Mon Dec 05 11:13:16 EST 2016,true,grail\SingletonsCreator.java,typeDefined,SingletonsCreator,No Expected Tag
+113,Mon Dec 05 11:13:16 EST 2016,true,mp\shapes\OvalImpl.java,typeDefined,OvalImpl,No Expected Tag
+113,Mon Dec 05 11:13:16 EST 2016,true,mp\shapes\StringShape.java,typeDefined,StringShape,No Expected Tag
+113,Mon Dec 05 11:13:16 EST 2016,true,grail\tokens\MinusToken.java,typeDefined,MinusToken,No Expected Tag
+113,Mon Dec 05 11:13:16 EST 2016,true,grail\commands\ApproachCommand.java,typeDefined,ApproachCommand,No Expected Tag
+113,Mon Dec 05 11:13:16 EST 2016,true,grail\TableImpl.java,typeDefined,TableImpl,No Expected Tag
+113,Mon Dec 05 11:13:16 EST 2016,true,grail\tokens\WordToken.java,typeDefined,WordToken,No Expected Tag
+113,Mon Dec 05 11:13:16 EST 2016,true,mp\views\BackgroundView.java,typeDefined,BackgroundView,No Expected Tag
+113,Mon Dec 05 11:13:16 EST 2016,true,grail\ScanStringImpl.java,typeDefined,ScanStringImpl,No Expected Tag
+113,Mon Dec 05 11:13:16 EST 2016,true,mp\views\ArthurView.java,typeDefined,ArthurView,No Expected Tag
+113,Mon Dec 05 11:13:16 EST 2016,true,mp\shapes\LineImpl.java,typeDefined,LineImpl,No Expected Tag
+113,Mon Dec 05 11:13:16 EST 2016,true,mp\views\BridgeScenePainterImpl.java,typeDefined,BridgeScenePainterImpl,No Expected Tag
+113,Mon Dec 05 11:13:16 EST 2016,true,grail\commands\RotateRightArmCommand.java,typeDefined,RotateRightArmCommand,No Expected Tag
+113,Mon Dec 05 11:13:17 EST 2016,true,mp\views\RobinView.java,typeDefined,RobinView,No Expected Tag
+113,Mon Dec 05 11:13:17 EST 2016,true,mp\views\PaintListenerImpl.java,typeDefined,PaintListenerImpl,No Expected Tag
+113,Mon Dec 05 11:13:17 EST 2016,true,grail\ScanString.java,typeDefined,ScanString,No Expected Tag
+113,Mon Dec 05 11:13:17 EST 2016,true,grail\tokens\QuotedStringToken.java,typeDefined,QuotedStringToken,No Expected Tag
+113,Mon Dec 05 11:13:17 EST 2016,true,grail\commands\CallCommand.java,typeDefined,CallCommand,No Expected Tag
+113,Mon Dec 05 11:13:17 EST 2016,true,grail\tokens\PlusToken.java,typeDefined,PlusToken,No Expected Tag
+113,Mon Dec 05 11:13:17 EST 2016,true,grail\commands\UndoCommand.java,typeDefined,UndoCommand,No Expected Tag
+113,Mon Dec 05 11:13:17 EST 2016,true,mp\views\DelegatingBridgeSceneView.java,typeDefined,DelegatingBridgeSceneView,No Expected Tag
+113,Mon Dec 05 11:13:17 EST 2016,true,grail\tokens\Token.java,typeDefined,Token,No Expected Tag
+113,Mon Dec 05 11:13:17 EST 2016,true,mp\shapes\StringShapeImpl.java,typeDefined,StringShapeImpl,No Expected Tag
+113,Mon Dec 05 11:13:17 EST 2016,true,mp\bridgeScene\GorgeAndBridgeImpl.java,typeDefined,GorgeAndBridgeImpl,No Expected Tag
+113,Mon Dec 05 11:13:17 EST 2016,true,mp\shapes\Image.java,typeDefined,Image,No Expected Tag
+113,Mon Dec 05 11:13:17 EST 2016,true,mp\views\GalahadView.java,typeDefined,GalahadView,No Expected Tag
+113,Mon Dec 05 11:13:17 EST 2016,true,grail\commands\WaitCommand.java,typeDefined,WaitCommand,No Expected Tag
+113,Mon Dec 05 11:13:17 EST 2016,true,mp\bridgeScene\BridgeSceneImpl.java,typeDefined,BridgeSceneImpl,No Expected Tag
+113,Mon Dec 05 11:13:17 EST 2016,true,grail\commands\RotateLeftArmCommand.java,typeDefined,RotateLeftArmCommand,No Expected Tag
+114,Tue Dec 06 00:41:44 EST 2016,true,mp\views\DelegatingBridgeSceneViewImpl.java,typeDefined,DelegatingBridgeSceneViewImpl,@DelegatingBridgeSceneView
+114,Tue Dec 06 00:41:44 EST 2016,true,mp\shapes\BoundedShapeImpl.java,typeDefined,BoundedShapeImpl,@BoundedShape
+114,Tue Dec 06 00:41:44 EST 2016,true,grail\commands\SayCommand.java,typeDefined,SayCommand,@Say
+114,Tue Dec 06 00:41:44 EST 2016,true,grail\commands\ThreadCommand.java,typeDefined,ThreadCommand,@Thread//EC
+114,Tue Dec 06 00:41:44 EST 2016,true,mp\bridgeScene\AvatarImpl.java,typeDefined,AvatarImpl,@Avatar
+114,Tue Dec 06 00:41:44 EST 2016,true,grail\tokens\WordTokenImpl.java,typeDefined,WordTokenImpl,@Word
+114,Tue Dec 06 00:41:44 EST 2016,true,grail\Table.java,typeDefined,Table,@Table
+114,Tue Dec 06 00:41:44 EST 2016,true,grail\commands\FailCommand.java,typeDefined,FailCommand,@Fail
+114,Tue Dec 06 00:41:44 EST 2016,true,grail\CommandInterpreterImpl.java,typeDefined,CommandInterpreterImpl,@CommandInterpreter
+114,Tue Dec 06 00:41:44 EST 2016,true,grail\commands\SleepCommand.java,typeDefined,SleepCommand,@Sleep//EC
+114,Tue Dec 06 00:41:44 EST 2016,true,mp\views\ConsoleSceneView.java,typeDefined,ConsoleSceneView,@ConsoleSceneView
+114,Tue Dec 06 00:41:44 EST 2016,true,grail\commands\RepeatCommand.java,typeDefined,RepeatCommand,@Repeat//EC
+114,Tue Dec 06 00:41:44 EST 2016,true,mp\views\BridgeSceneController.java,typeDefined,BridgeSceneController,@BridgeSceneController
+114,Tue Dec 06 00:41:44 EST 2016,true,mp\shapes\LocatableImpl.java,typeDefined,LocatableImpl,@Locatable
+114,Tue Dec 06 00:41:44 EST 2016,true,grail\tokens\NumberToken.java,typeDefined,NumberToken,@Number
+114,Tue Dec 06 00:41:44 EST 2016,true,grail\commands\PassCommand.java,typeDefined,PassCommand,@Pass
+114,Tue Dec 06 00:41:44 EST 2016,true,mp\shapes\AngleShape.java,typeDefined,AngleShape,@Angle
+114,Tue Dec 06 00:41:44 EST 2016,true,grail\tokens\EndToken.java,typeDefined,EndToken,@End
+114,Tue Dec 06 00:41:44 EST 2016,true,grail\commands\ProceedAllCommand.java,typeDefined,ProceedAllCommand,@ProceedAll//EC
+114,Tue Dec 06 00:41:44 EST 2016,true,mp\shapes\Locatable.java,typeDefined,Locatable,@Locatable
+114,Tue Dec 06 00:41:44 EST 2016,true,grail\commands\MoveCommand.java,typeDefined,MoveCommand,@Move
+114,Tue Dec 06 00:41:44 EST 2016,true,grail\commands\RedoCommand.java,typeDefined,RedoCommand,@Redo//EC
+114,Tue Dec 06 00:41:44 EST 2016,true,grail\commands\DefineCommand.java,typeDefined,DefineCommand,@Define//EC
+114,Tue Dec 06 00:41:44 EST 2016,true,mp\shapes\Line.java,typeDefined,Line,@RotatingLine//EC
+114,Tue Dec 06 00:41:44 EST 2016,true,mp\shapes\AngleShapeImpl.java,typeDefined,AngleShapeImpl,@Angle
+114,Tue Dec 06 00:41:44 EST 2016,true,mp\views\LancelotView.java,typeDefined,LancelotView,@PaintListener
+114,Tue Dec 06 00:41:44 EST 2016,true,grail\tokens\NumberTokenImpl.java,typeDefined,NumberTokenImpl,@Number
+114,Tue Dec 06 00:41:44 EST 2016,true,mp\views\GuardView.java,typeDefined,GuardView,@PaintListener
+114,Tue Dec 06 00:41:44 EST 2016,true,mp\shapes\BoundedShape.java,typeDefined,BoundedShape,@BoundedShape
+114,Tue Dec 06 00:41:44 EST 2016,true,mp\bridgeScene\Avatar.java,typeDefined,Avatar,@Avatar
+114,Tue Dec 06 00:41:44 EST 2016,true,mp\views\BridgeScenePainter.java,typeDefined,BridgeScenePainter,@ObservableBridgeScenePainter
+114,Tue Dec 06 00:41:45 EST 2016,true,grail\tokens\TokenImpl.java,typeDefined,TokenImpl,@Token
+114,Tue Dec 06 00:41:45 EST 2016,true,grail\tokens\StartToken.java,typeDefined,StartToken,@Start
+114,Tue Dec 06 00:41:45 EST 2016,true,grail\SingletonsCreator.java,typeDefined,SingletonsCreator,@SingletonsCreator
+114,Tue Dec 06 00:41:45 EST 2016,true,grail\tokens\MinusToken.java,typeDefined,MinusToken,@Minus//EC
+114,Tue Dec 06 00:41:45 EST 2016,true,grail\TableImpl.java,typeDefined,TableImpl,@Table
+114,Tue Dec 06 00:41:45 EST 2016,true,grail\tokens\WordToken.java,typeDefined,WordToken,@Word
+114,Tue Dec 06 00:41:45 EST 2016,true,mp\views\BackgroundView.java,typeDefined,BackgroundView,@PaintListener
+114,Tue Dec 06 00:41:45 EST 2016,true,grail\ScanStringImpl.java,typeDefined,ScanStringImpl,@ScannerBean
+114,Tue Dec 06 00:41:45 EST 2016,true,mp\views\ArthurView.java,typeDefined,ArthurView,@PaintListener
+114,Tue Dec 06 00:41:45 EST 2016,true,mp\shapes\LineImpl.java,typeDefined,LineImpl,@RotatingLine//EC
+114,Tue Dec 06 00:41:45 EST 2016,true,mp\views\BridgeScenePainterImpl.java,typeDefined,BridgeScenePainterImpl,@ObservableBridgeScenePainter
+114,Tue Dec 06 00:41:45 EST 2016,true,grail\commands\RotateRightArmCommand.java,typeDefined,RotateRightArmCommand,@RotateRightArm//EC
+114,Tue Dec 06 00:41:45 EST 2016,true,mp\views\RobinView.java,typeDefined,RobinView,@PaintListener
+114,Tue Dec 06 00:41:45 EST 2016,true,mp\views\PaintListenerImpl.java,typeDefined,PaintListenerImpl,@PaintListener
+114,Tue Dec 06 00:41:45 EST 2016,true,grail\ScanString.java,typeDefined,ScanString,@ScannerBean
+114,Tue Dec 06 00:41:45 EST 2016,true,grail\tokens\QuotedStringToken.java,typeDefined,QuotedStringToken,@Quote
+114,Tue Dec 06 00:41:45 EST 2016,true,grail\commands\CallCommand.java,typeDefined,CallCommand,@Call//EC
+114,Tue Dec 06 00:41:45 EST 2016,true,grail\tokens\PlusToken.java,typeDefined,PlusToken,@Plus//EC
+114,Tue Dec 06 00:41:45 EST 2016,true,grail\commands\UndoCommand.java,typeDefined,UndoCommand,@Undo//EC
+114,Tue Dec 06 00:41:45 EST 2016,true,mp\views\DelegatingBridgeSceneView.java,typeDefined,DelegatingBridgeSceneView,@DelegatingBridgeSceneView
+114,Tue Dec 06 00:41:45 EST 2016,true,grail\tokens\Token.java,typeDefined,Token,@Token
+114,Tue Dec 06 00:41:45 EST 2016,true,mp\views\GalahadView.java,typeDefined,GalahadView,@PaintListener
+114,Tue Dec 06 00:41:45 EST 2016,true,grail\commands\WaitCommand.java,typeDefined,WaitCommand,@Wait//EC
+114,Tue Dec 06 00:41:45 EST 2016,true,mp\bridgeScene\BridgeSceneImpl.java,typeDefined,BridgeSceneImpl,@BridgeScene
+114,Tue Dec 06 00:41:45 EST 2016,true,grail\commands\RotateLeftArmCommand.java,typeDefined,RotateLeftArmCommand,@RotateLeftArm//EC
+116,Tue Dec 06 00:44:15 EST 2016,true,grail\Parser.java,typeDefined,Parser,No Expected Tag
+117,Tue Dec 06 00:44:28 EST 2016,true,grail\ParserImpl.java,typeDefined,ParserImpl,No Expected Tag
+122,Tue Dec 06 00:47:01 EST 2016,true,grail\commands\CommandList.java,typeDefined,CommandList,No Expected Tag
+123,Tue Dec 06 00:47:26 EST 2016,true,grail\commands\RunnableApproachCommand.java,typeDefined,RunnableApproachCommand,No Expected Tag
+124,Tue Dec 06 00:47:40 EST 2016,true,grail\commands\RunnableFailCommand.java,typeDefined,RunnableFailCommand,No Expected Tag
+125,Tue Dec 06 00:47:51 EST 2016,true,grail\commands\RunnablePassCommand.java,typeDefined,RunnablePassCommand,No Expected Tag
+126,Tue Dec 06 00:48:03 EST 2016,true,grail\commands\RunnableRepeatCommand.java,typeDefined,RunnableRepeatCommand,No Expected Tag
+127,Tue Dec 06 00:48:41 EST 2016,true,main\Assignment11.java,typeDefined,Assignment11,No Expected Tag
+128,Tue Dec 06 00:49:22 EST 2016,true,main\Assignment10copy.java,typeDefined,Assignment10copy,No Expected Tag
+129,Tue Mar 21 22:57:03 EDT 2017,true,mp\views\DelegatingBridgeSceneViewImpl.java,expectedTypes,[main.Assignment9, @ScannerBean, @Number, @Word, @Quote, @Start, @End, @Plus//EC, @Minus//EC, ScanningIterator//EC, @RotatingLine//EC, @Move, @Pass, @Fail, @Say, @RotateLeftArm//EC, @RotateRightArm//EC, @Repeat//EC, @Define//EC, @Call//EC, @Thread//EC, @Wait//EC, @ProceedAll//EC, @Sleep//EC, @Undo//EC, @Redo//EC, @Angle, @Avatar, @BridgeScene, @Locatable, @BoundedShape, @Table, @CommandInterpreter, @SignedMoveCommandInterpreter//EC, @ErrorResilientCommandInterpreter//EC, @ConsoleSceneView, @InheritingBridgeScenePainter, @ObservableBridgeScenePainter, @DelegatingBridgeSceneView, @PaintListener, @BridgeSceneController, @CommandInterpreterView//EC, @CommandInterpreterController//EC, @ObservableCommandInterpreter//EC, @Token, @SingletonsCreator, @ProgressBarCreator//EC]
+129,Tue Mar 21 22:57:04 EDT 2017,true,grail\ParserImpl.java,illegalTypeImported,ParserImpl,grail.tokens.TokenImpl,ParserImpl
+129,Tue Mar 21 22:57:04 EDT 2017,true,mp\bridgeScene\BridgeScene.java,illegalTypeImported,BridgeScene,mp.shapes.Image,BridgeScene
+129,Tue Mar 21 22:57:04 EDT 2017,true,mp\bridgeScene\BridgeScene.java,illegalTypeImported,BridgeScene,mp.shapes.Oval,BridgeScene
+129,Tue Mar 21 22:57:04 EDT 2017,true,mp\bridgeScene\BridgeScene.java,illegalTypeImported,BridgeScene,mp.shapes.OvalImpl,BridgeScene
+129,Tue Mar 21 22:57:04 EDT 2017,true,mp\bridgeScene\BridgeScene.java,illegalTypeImported,BridgeScene,mp.shapes.StringShapeImpl,BridgeScene
+129,Tue Mar 21 22:57:04 EDT 2017,true,grail\commands\SayCommand.java,illegalTypeImported,SayCommand,grail.tokens.WordToken,SayCommand
+129,Tue Mar 21 22:57:04 EDT 2017,true,grail\commands\SayCommand.java,illegalTypeImported,SayCommand,grail.tokens.WordTokenImpl,SayCommand
+129,Tue Mar 21 22:57:04 EDT 2017,true,grail\commands\ThreadCommand.java,illegalTypeImported,ThreadCommand,grail.tokens.WordToken,ThreadCommand
+129,Tue Mar 21 22:57:04 EDT 2017,true,grail\commands\ThreadCommand.java,illegalTypeImported,ThreadCommand,grail.tokens.WordTokenImpl,ThreadCommand
+129,Tue Mar 21 22:57:04 EDT 2017,true,mp\bridgeScene\AvatarImpl.java,illegalTypeImported,AvatarImpl,mp.shapes.AngleShapeImpl,AvatarImpl
+129,Tue Mar 21 22:57:04 EDT 2017,true,mp\bridgeScene\AvatarImpl.java,illegalTypeImported,AvatarImpl,mp.shapes.ImageImpl,AvatarImpl
+129,Tue Mar 21 22:57:04 EDT 2017,true,mp\bridgeScene\AvatarImpl.java,illegalTypeImported,AvatarImpl,mp.shapes.LineImpl,AvatarImpl
+129,Tue Mar 21 22:57:04 EDT 2017,true,mp\bridgeScene\AvatarImpl.java,illegalTypeImported,AvatarImpl,mp.shapes.StringShapeImpl,AvatarImpl
+129,Tue Mar 21 22:57:04 EDT 2017,true,mp\bridgeScene\AvatarImpl.java,expectedDeclaredSignatures,BridgeScene,@scroll:int;int->*,BridgeScene
+129,Tue Mar 21 22:57:05 EDT 2017,true,main\Assignment11.java,illegalTypeImported,Assignment11,grail.CommandInterpreterImpl,Assignment11
+129,Tue Mar 21 22:57:05 EDT 2017,true,main\Assignment11.java,illegalTypeImported,Assignment11,grail.SingletonsCreator,Assignment11
+129,Tue Mar 21 22:57:05 EDT 2017,true,main\Assignment11.java,illegalTypeImported,Assignment11,mp.bridgeScene.AvatarImpl,Assignment11
+129,Tue Mar 21 22:57:05 EDT 2017,true,main\Assignment11.java,illegalTypeImported,Assignment11,mp.bridgeScene.BridgeSceneImpl,Assignment11
+129,Tue Mar 21 22:57:05 EDT 2017,true,main\Assignment11.java,illegalTypeImported,Assignment11,mp.shapes.StringShapeImpl,Assignment11
+129,Tue Mar 21 22:57:05 EDT 2017,true,main\Assignment11.java,illegalTypeImported,Assignment11,mp.views.BridgeScenePainterImpl,Assignment11
+129,Tue Mar 21 22:57:05 EDT 2017,true,main\Assignment11.java,magic.number,Assignment11,500,EXPR 500 , EXPR 500
+129,Tue Mar 21 22:57:05 EDT 2017,true,grail\commands\FailCommand.java,illegalTypeImported,FailCommand,grail.tokens.WordToken,FailCommand
+129,Tue Mar 21 22:57:05 EDT 2017,true,grail\commands\FailCommand.java,illegalTypeImported,FailCommand,grail.tokens.WordTokenImpl,FailCommand
+129,Tue Mar 21 22:57:05 EDT 2017,true,grail\CommandInterpreterImpl.java,illegalTypeImported,CommandInterpreterImpl,grail.tokens.TokenImpl,CommandInterpreterImpl
+129,Tue Mar 21 22:57:05 EDT 2017,true,grail\Parser.java,illegalTypeImported,Parser,grail.commands.ApproachCommand,Parser
+129,Tue Mar 21 22:57:05 EDT 2017,true,grail\Parser.java,illegalTypeImported,Parser,grail.commands.CommandList,Parser
+129,Tue Mar 21 22:57:05 EDT 2017,true,grail\Parser.java,illegalTypeImported,Parser,grail.commands.FailCommand,Parser
+129,Tue Mar 21 22:57:05 EDT 2017,true,grail\Parser.java,illegalTypeImported,Parser,grail.commands.MoveCommand,Parser
+129,Tue Mar 21 22:57:05 EDT 2017,true,grail\Parser.java,illegalTypeImported,Parser,grail.commands.PassCommand,Parser
+129,Tue Mar 21 22:57:05 EDT 2017,true,grail\Parser.java,illegalTypeImported,Parser,grail.commands.RepeatCommand,Parser
+129,Tue Mar 21 22:57:05 EDT 2017,true,grail\Parser.java,illegalTypeImported,Parser,grail.commands.RunnableApproachCommand,Parser
+129,Tue Mar 21 22:57:05 EDT 2017,true,grail\Parser.java,illegalTypeImported,Parser,grail.commands.RunnableFailCommand,Parser
+129,Tue Mar 21 22:57:05 EDT 2017,true,grail\Parser.java,illegalTypeImported,Parser,grail.commands.RunnableMoveCommand,Parser
+129,Tue Mar 21 22:57:05 EDT 2017,true,grail\Parser.java,illegalTypeImported,Parser,grail.commands.RunnablePassCommand,Parser
+129,Tue Mar 21 22:57:05 EDT 2017,true,grail\Parser.java,illegalTypeImported,Parser,grail.commands.RunnableRepeatCommand,Parser
+129,Tue Mar 21 22:57:05 EDT 2017,true,grail\Parser.java,illegalTypeImported,Parser,grail.commands.RunnableSayCommand,Parser
+129,Tue Mar 21 22:57:05 EDT 2017,true,grail\Parser.java,illegalTypeImported,Parser,grail.commands.SayCommand,Parser
+129,Tue Mar 21 22:57:05 EDT 2017,true,grail\Parser.java,illegalTypeImported,Parser,grail.tokens.MinusToken,Parser
+129,Tue Mar 21 22:57:05 EDT 2017,true,grail\Parser.java,illegalTypeImported,Parser,grail.tokens.NumberToken,Parser
+129,Tue Mar 21 22:57:05 EDT 2017,true,grail\Parser.java,illegalTypeImported,Parser,grail.tokens.NumberTokenImpl,Parser
+129,Tue Mar 21 22:57:05 EDT 2017,true,grail\Parser.java,illegalTypeImported,Parser,grail.tokens.PlusToken,Parser
+129,Tue Mar 21 22:57:05 EDT 2017,true,grail\Parser.java,illegalTypeImported,Parser,grail.tokens.StartToken,Parser
+129,Tue Mar 21 22:57:05 EDT 2017,true,grail\Parser.java,illegalTypeImported,Parser,grail.tokens.TokenImpl,Parser
+129,Tue Mar 21 22:57:05 EDT 2017,true,grail\Parser.java,illegalTypeImported,Parser,grail.tokens.WordTokenImpl,Parser
+129,Tue Mar 21 22:57:05 EDT 2017,true,grail\Parser.java,illegalTypeImported,Parser,mp.bridgeScene.AvatarImpl,Parser
+129,Tue Mar 21 22:57:05 EDT 2017,true,grail\Parser.java,illegalTypeImported,Parser,mp.bridgeScene.BridgeSceneImpl,Parser
+129,Tue Mar 21 22:57:05 EDT 2017,true,grail\commands\RunnableFailCommand.java,illegalTypeImported,RunnableFailCommand,mp.bridgeScene.BridgeSceneImpl,RunnableFailCommand
+129,Tue Mar 21 22:57:05 EDT 2017,true,grail\commands\SleepCommand.java,illegalTypeImported,SleepCommand,grail.tokens.WordToken,SleepCommand
+129,Tue Mar 21 22:57:05 EDT 2017,true,grail\commands\SleepCommand.java,illegalTypeImported,SleepCommand,grail.tokens.WordTokenImpl,SleepCommand
+129,Tue Mar 21 22:57:05 EDT 2017,true,mp\views\ConsoleSceneView.java,illegalTypeImported,ConsoleSceneView,grail.SingletonsCreator,ConsoleSceneView
+129,Tue Mar 21 22:57:05 EDT 2017,true,mp\views\ConsoleSceneView.java,illegalTypeImported,ConsoleSceneView,mp.bridgeScene.AvatarImpl,ConsoleSceneView
+129,Tue Mar 21 22:57:05 EDT 2017,true,mp\views\ConsoleSceneView.java,illegalTypeImported,ConsoleSceneView,mp.bridgeScene.BridgeSceneImpl,ConsoleSceneView
+129,Tue Mar 21 22:57:05 EDT 2017,true,mp\views\ConsoleSceneView.java,illegalTypeImported,ConsoleSceneView,mp.shapes.AngleShapeImpl,ConsoleSceneView
+129,Tue Mar 21 22:57:05 EDT 2017,true,mp\views\ConsoleSceneView.java,illegalTypeImported,ConsoleSceneView,mp.shapes.LineImpl,ConsoleSceneView
+129,Tue Mar 21 22:57:05 EDT 2017,true,mp\views\ConsoleSceneView.java,illegalTypeImported,ConsoleSceneView,mp.shapes.StringShapeImpl,ConsoleSceneView
+129,Tue Mar 21 22:57:06 EDT 2017,true,grail\commands\RepeatCommand.java,illegalTypeImported,RepeatCommand,grail.tokens.WordToken,RepeatCommand
+129,Tue Mar 21 22:57:06 EDT 2017,true,grail\commands\RepeatCommand.java,illegalTypeImported,RepeatCommand,grail.tokens.WordTokenImpl,RepeatCommand
+129,Tue Mar 21 22:57:06 EDT 2017,true,mp\views\BridgeSceneController.java,illegalTypeImported,BridgeSceneController,grail.SingletonsCreator,BridgeSceneController
+129,Tue Mar 21 22:57:06 EDT 2017,true,mp\views\BridgeSceneController.java,illegalTypeImported,BridgeSceneController,mp.bridgeScene.AvatarImpl,BridgeSceneController
+129,Tue Mar 21 22:57:06 EDT 2017,true,mp\views\BridgeSceneController.java,illegalTypeImported,BridgeSceneController,mp.bridgeScene.BridgeSceneImpl,BridgeSceneController
+129,Tue Mar 21 22:57:06 EDT 2017,true,grail\commands\RunnablePassCommand.java,illegalTypeImported,RunnablePassCommand,mp.bridgeScene.BridgeSceneImpl,RunnablePassCommand
+129,Tue Mar 21 22:57:07 EDT 2017,true,grail\tokens\NumberToken.java,functionAssignsGlobal,NumberToken,getValue
+129,Tue Mar 21 22:57:07 EDT 2017,true,grail\commands\PassCommand.java,illegalTypeImported,PassCommand,grail.tokens.WordToken,PassCommand
+129,Tue Mar 21 22:57:07 EDT 2017,true,grail\commands\PassCommand.java,illegalTypeImported,PassCommand,grail.tokens.WordTokenImpl,PassCommand
+129,Tue Mar 21 22:57:07 EDT 2017,true,grail\AnimatingCommand.java,illegalTypeImported,AnimatingCommand,mp.bridgeScene.AvatarImpl,AnimatingCommand
+129,Tue Mar 21 22:57:07 EDT 2017,true,grail\commands\ProceedAllCommand.java,illegalTypeImported,ProceedAllCommand,grail.tokens.WordToken,ProceedAllCommand
+129,Tue Mar 21 22:57:07 EDT 2017,true,grail\commands\ProceedAllCommand.java,illegalTypeImported,ProceedAllCommand,grail.tokens.WordTokenImpl,ProceedAllCommand
+129,Tue Mar 21 22:57:07 EDT 2017,true,mp\shapes\Locatable.java,illegalTypeImported,Locatable,java.text.AttributedCharacterIterator,Locatable
+129,Tue Mar 21 22:57:07 EDT 2017,true,mp\shapes\Locatable.java,setterAssignsGlobal,Locatable,setColor
+129,Tue Mar 21 22:57:07 EDT 2017,true,mp\shapes\Locatable.java,setterAssignsGlobal,Locatable,setXORMode
+129,Tue Mar 21 22:57:07 EDT 2017,true,mp\shapes\Locatable.java,setterAssignsGlobal,Locatable,setFont
+129,Tue Mar 21 22:57:07 EDT 2017,true,mp\shapes\Locatable.java,setterAssignsGlobal,Locatable,setClip
+129,Tue Mar 21 22:57:07 EDT 2017,true,grail\commands\MoveCommand.java,illegalTypeImported,MoveCommand,grail.tokens.WordToken,MoveCommand
+129,Tue Mar 21 22:57:07 EDT 2017,true,grail\commands\MoveCommand.java,illegalTypeImported,MoveCommand,grail.tokens.WordTokenImpl,MoveCommand
+129,Tue Mar 21 22:57:07 EDT 2017,true,grail\commands\RunnableMoveCommand.java,illegalTypeImported,RunnableMoveCommand,mp.bridgeScene.AvatarImpl,RunnableMoveCommand
+129,Tue Mar 21 22:57:07 EDT 2017,true,grail\commands\RedoCommand.java,illegalTypeImported,RedoCommand,grail.tokens.WordToken,RedoCommand
+129,Tue Mar 21 22:57:07 EDT 2017,true,grail\commands\RedoCommand.java,illegalTypeImported,RedoCommand,grail.tokens.WordTokenImpl,RedoCommand
+129,Tue Mar 21 22:57:07 EDT 2017,true,grail\commands\DefineCommand.java,illegalTypeImported,DefineCommand,grail.tokens.WordToken,DefineCommand
+129,Tue Mar 21 22:57:07 EDT 2017,true,grail\commands\DefineCommand.java,illegalTypeImported,DefineCommand,grail.tokens.WordTokenImpl,DefineCommand
+129,Tue Mar 21 22:57:07 EDT 2017,true,mp\bridgeScene\GorgeAndBridge.java,illegalTypeImported,GorgeAndBridge,mp.shapes.Image,GorgeAndBridge
+129,Tue Mar 21 22:57:07 EDT 2017,true,mp\bridgeScene\GorgeAndBridge.java,illegalTypeImported,GorgeAndBridge,mp.shapes.ImageImpl,GorgeAndBridge
+129,Tue Mar 21 22:57:07 EDT 2017,true,mp\bridgeScene\GorgeAndBridge.java,illegalTypeImported,GorgeAndBridge,mp.shapes.Line,GorgeAndBridge
+129,Tue Mar 21 22:57:07 EDT 2017,true,mp\bridgeScene\GorgeAndBridge.java,illegalTypeImported,GorgeAndBridge,mp.shapes.LineImpl,GorgeAndBridge
+129,Tue Mar 21 22:57:08 EDT 2017,true,mp\views\LancelotView.java,illegalTypeImported,LancelotView,grail.SingletonsCreator,LancelotView
+129,Tue Mar 21 22:57:08 EDT 2017,true,mp\views\LancelotView.java,illegalTypeImported,LancelotView,mp.bridgeScene.AvatarImpl,LancelotView
+129,Tue Mar 21 22:57:08 EDT 2017,true,mp\views\LancelotView.java,illegalTypeImported,LancelotView,mp.bridgeScene.BridgeSceneImpl,LancelotView
+129,Tue Mar 21 22:57:08 EDT 2017,true,mp\views\LancelotView.java,illegalTypeImported,LancelotView,mp.shapes.AngleShapeImpl,LancelotView
+129,Tue Mar 21 22:57:08 EDT 2017,true,mp\views\LancelotView.java,illegalTypeImported,LancelotView,mp.shapes.ImageImpl,LancelotView
+129,Tue Mar 21 22:57:08 EDT 2017,true,mp\views\LancelotView.java,illegalTypeImported,LancelotView,mp.shapes.LineImpl,LancelotView
+129,Tue Mar 21 22:57:08 EDT 2017,true,mp\views\LancelotView.java,illegalTypeImported,LancelotView,mp.shapes.StringShapeImpl,LancelotView
+129,Tue Mar 21 22:57:08 EDT 2017,true,grail\Animator.java,magic.number,Animator,500,EXPR 500
+129,Tue Mar 21 22:57:08 EDT 2017,true,mp\views\GuardView.java,illegalTypeImported,GuardView,grail.SingletonsCreator,GuardView
+129,Tue Mar 21 22:57:08 EDT 2017,true,mp\views\GuardView.java,illegalTypeImported,GuardView,mp.bridgeScene.AvatarImpl,GuardView
+129,Tue Mar 21 22:57:08 EDT 2017,true,mp\views\GuardView.java,illegalTypeImported,GuardView,mp.bridgeScene.BridgeSceneImpl,GuardView
+129,Tue Mar 21 22:57:08 EDT 2017,true,mp\views\GuardView.java,illegalTypeImported,GuardView,mp.shapes.AngleShapeImpl,GuardView
+129,Tue Mar 21 22:57:08 EDT 2017,true,mp\views\GuardView.java,illegalTypeImported,GuardView,mp.shapes.ImageImpl,GuardView
+129,Tue Mar 21 22:57:08 EDT 2017,true,mp\views\GuardView.java,illegalTypeImported,GuardView,mp.shapes.LineImpl,GuardView
+129,Tue Mar 21 22:57:08 EDT 2017,true,mp\views\GuardView.java,illegalTypeImported,GuardView,mp.shapes.StringShapeImpl,GuardView
+129,Tue Mar 21 22:57:08 EDT 2017,true,mp\shapes\BoundedShape.java,expectedGetters,Line,Width,int | Height
+129,Tue Mar 21 22:57:08 EDT 2017,true,mp\shapes\BoundedShape.java,expectedGetters,Oval,Width,int | Height
+129,Tue Mar 21 22:57:08 EDT 2017,true,mp\bridgeScene\Avatar.java,illegalTypeImported,Avatar,mp.shapes.AngleShape,Avatar
+129,Tue Mar 21 22:57:08 EDT 2017,true,mp\bridgeScene\Avatar.java,illegalTypeImported,Avatar,mp.shapes.AngleShapeImpl,Avatar
+129,Tue Mar 21 22:57:08 EDT 2017,true,mp\bridgeScene\Avatar.java,illegalTypeImported,Avatar,mp.shapes.ImageImpl,Avatar
+129,Tue Mar 21 22:57:08 EDT 2017,true,mp\bridgeScene\Avatar.java,illegalTypeImported,Avatar,mp.shapes.Line,Avatar
+129,Tue Mar 21 22:57:08 EDT 2017,true,mp\bridgeScene\Avatar.java,illegalTypeImported,Avatar,mp.shapes.LineImpl,Avatar
+129,Tue Mar 21 22:57:08 EDT 2017,true,mp\bridgeScene\Avatar.java,illegalTypeImported,Avatar,mp.shapes.StringShape,Avatar
+129,Tue Mar 21 22:57:08 EDT 2017,true,mp\bridgeScene\Avatar.java,illegalTypeImported,Avatar,mp.shapes.StringShapeImpl,Avatar
+129,Tue Mar 21 22:57:08 EDT 2017,true,mp\bridgeScene\Avatar.java,magic.number,Avatar,80,EXPR ( head . getX ) , EXPR ( head . getY ) , EXPR 80 , EXPR 90
+129,Tue Mar 21 22:57:08 EDT 2017,true,mp\bridgeScene\Avatar.java,magic.number,Avatar,90,EXPR ( head . getX ) , EXPR ( head . getY ) , EXPR 80 , EXPR 90
+129,Tue Mar 21 22:57:08 EDT 2017,true,mp\views\BridgeScenePainter.java,expectedGetters,BridgeScenePainter,PaintListeners,List
+129,Tue Mar 21 22:57:08 EDT 2017,true,grail\CommandInterpreter.java,illegalTypeImported,CommandInterpreter,grail.commands.MoveCommand,CommandInterpreter
+129,Tue Mar 21 22:57:08 EDT 2017,true,grail\CommandInterpreter.java,illegalTypeImported,CommandInterpreter,grail.commands.RunnableMoveCommand,CommandInterpreter
+129,Tue Mar 21 22:57:08 EDT 2017,true,grail\CommandInterpreter.java,illegalTypeImported,CommandInterpreter,grail.commands.RunnableSayCommand,CommandInterpreter
+129,Tue Mar 21 22:57:08 EDT 2017,true,grail\CommandInterpreter.java,illegalTypeImported,CommandInterpreter,grail.commands.SayCommand,CommandInterpreter
+129,Tue Mar 21 22:57:08 EDT 2017,true,grail\CommandInterpreter.java,illegalTypeImported,CommandInterpreter,grail.tokens.MinusToken,CommandInterpreter
+129,Tue Mar 21 22:57:08 EDT 2017,true,grail\CommandInterpreter.java,illegalTypeImported,CommandInterpreter,grail.tokens.NumberTokenImpl,CommandInterpreter
+129,Tue Mar 21 22:57:08 EDT 2017,true,grail\CommandInterpreter.java,illegalTypeImported,CommandInterpreter,grail.tokens.PlusToken,CommandInterpreter
+129,Tue Mar 21 22:57:08 EDT 2017,true,grail\CommandInterpreter.java,illegalTypeImported,CommandInterpreter,grail.tokens.TokenImpl,CommandInterpreter
+129,Tue Mar 21 22:57:08 EDT 2017,true,grail\CommandInterpreter.java,illegalTypeImported,CommandInterpreter,grail.tokens.WordTokenImpl,CommandInterpreter
+129,Tue Mar 21 22:57:08 EDT 2017,true,grail\CommandInterpreter.java,illegalTypeImported,CommandInterpreter,mp.bridgeScene.AvatarImpl,CommandInterpreter
+129,Tue Mar 21 22:57:08 EDT 2017,true,grail\CommandInterpreter.java,illegalTypeImported,CommandInterpreter,mp.bridgeScene.BridgeSceneImpl,CommandInterpreter
+129,Tue Mar 21 22:57:08 EDT 2017,true,grail\CommandInterpreter.java,missingPropertyNotification,CommandInterpreter,"setCommand"
+129,Tue Mar 21 22:57:08 EDT 2017,true,grail\CommandInterpreter.java,expectedGetters,CommandInterpreter,Errors,*//EC
+129,Tue Mar 21 22:57:08 EDT 2017,true,mp\views\AvatarView.java,illegalTypeImported,AvatarView,mp.bridgeScene.AvatarImpl,AvatarView
+129,Tue Mar 21 22:57:08 EDT 2017,true,mp\views\AvatarView.java,illegalTypeImported,AvatarView,mp.shapes.AngleShapeImpl,AvatarView
+129,Tue Mar 21 22:57:08 EDT 2017,true,mp\views\AvatarView.java,illegalTypeImported,AvatarView,mp.shapes.ImageImpl,AvatarView
+129,Tue Mar 21 22:57:08 EDT 2017,true,mp\views\AvatarView.java,illegalTypeImported,AvatarView,mp.shapes.LineImpl,AvatarView
+129,Tue Mar 21 22:57:08 EDT 2017,true,mp\views\AvatarView.java,classHasAtLeastOneInterface,AvatarView,mp.views.AvatarView
+129,Tue Mar 21 22:57:08 EDT 2017,true,grail\SingletonsCreator.java,illegalTypeImported,SingletonsCreator,mp.bridgeScene.BridgeScene,SingletonsCreator
+129,Tue Mar 21 22:57:08 EDT 2017,true,grail\SingletonsCreator.java,illegalTypeImported,SingletonsCreator,mp.bridgeScene.BridgeSceneImpl,SingletonsCreator
+129,Tue Mar 21 22:57:08 EDT 2017,true,grail\SingletonsCreator.java,illegalTypeImported,SingletonsCreator,mp.views.ConsoleSceneView,SingletonsCreator
+129,Tue Mar 21 22:57:08 EDT 2017,true,grail\SingletonsCreator.java,illegalTypeImported,SingletonsCreator,mp.views.BridgeSceneController,SingletonsCreator
+129,Tue Mar 21 22:57:08 EDT 2017,true,grail\SingletonsCreator.java,illegalTypeImported,SingletonsCreator,mp.views.BridgeSceneControllerImpl,SingletonsCreator
+129,Tue Mar 21 22:57:08 EDT 2017,true,grail\SingletonsCreator.java,illegalTypeImported,SingletonsCreator,mp.views.BridgeScenePainter,SingletonsCreator
+129,Tue Mar 21 22:57:08 EDT 2017,true,grail\SingletonsCreator.java,illegalTypeImported,SingletonsCreator,mp.views.BridgeScenePainterImpl,SingletonsCreator
+129,Tue Mar 21 22:57:08 EDT 2017,true,grail\SingletonsCreator.java,illegalTypeImported,SingletonsCreator,mp.views.DelegatingBridgeSceneView,SingletonsCreator
+129,Tue Mar 21 22:57:08 EDT 2017,true,grail\SingletonsCreator.java,illegalTypeImported,SingletonsCreator,mp.views.DelegatingBridgeSceneViewImpl,SingletonsCreator
+129,Tue Mar 21 22:57:08 EDT 2017,true,grail\commands\RunnableSayCommand.java,illegalTypeImported,RunnableSayCommand,mp.bridgeScene.BridgeSceneImpl,RunnableSayCommand
+129,Tue Mar 21 22:57:08 EDT 2017,true,grail\commands\ApproachCommand.java,illegalTypeImported,ApproachCommand,grail.tokens.WordToken,ApproachCommand
+129,Tue Mar 21 22:57:08 EDT 2017,true,grail\commands\ApproachCommand.java,illegalTypeImported,ApproachCommand,grail.tokens.WordTokenImpl,ApproachCommand
+129,Tue Mar 21 22:57:09 EDT 2017,true,grail\tokens\WordToken.java,functionAssignsGlobal,WordToken,getValue
+129,Tue Mar 21 22:57:09 EDT 2017,true,mp\views\BackgroundView.java,illegalTypeImported,BackgroundView,grail.SingletonsCreator,BackgroundView
+129,Tue Mar 21 22:57:09 EDT 2017,true,mp\views\BackgroundView.java,illegalTypeImported,BackgroundView,mp.bridgeScene.BridgeSceneImpl,BackgroundView
+129,Tue Mar 21 22:57:09 EDT 2017,true,mp\views\BackgroundView.java,illegalTypeImported,BackgroundView,mp.bridgeScene.GorgeAndBridgeImpl,BackgroundView
+129,Tue Mar 21 22:57:09 EDT 2017,true,mp\views\BackgroundView.java,illegalTypeImported,BackgroundView,mp.shapes.ImageImpl,BackgroundView
+129,Tue Mar 21 22:57:09 EDT 2017,true,mp\views\BackgroundView.java,illegalTypeImported,BackgroundView,mp.shapes.LineImpl,BackgroundView
+129,Tue Mar 21 22:57:09 EDT 2017,true,mp\views\BackgroundView.java,illegalTypeImported,BackgroundView,mp.shapes.OvalImpl,BackgroundView
+129,Tue Mar 21 22:57:09 EDT 2017,true,grail\ScanStringImpl.java,illegalTypeImported,ScanStringImpl,grail.tokens.TokenImpl,ScanStringImpl
+129,Tue Mar 21 22:57:09 EDT 2017,true,mp\views\ArthurView.java,illegalTypeImported,ArthurView,grail.SingletonsCreator,ArthurView
+129,Tue Mar 21 22:57:09 EDT 2017,true,mp\views\ArthurView.java,illegalTypeImported,ArthurView,mp.bridgeScene.AvatarImpl,ArthurView
+129,Tue Mar 21 22:57:09 EDT 2017,true,mp\views\ArthurView.java,illegalTypeImported,ArthurView,mp.bridgeScene.BridgeSceneImpl,ArthurView
+129,Tue Mar 21 22:57:09 EDT 2017,true,mp\views\ArthurView.java,illegalTypeImported,ArthurView,mp.shapes.AngleShapeImpl,ArthurView
+129,Tue Mar 21 22:57:09 EDT 2017,true,mp\views\ArthurView.java,illegalTypeImported,ArthurView,mp.shapes.ImageImpl,ArthurView
+129,Tue Mar 21 22:57:09 EDT 2017,true,mp\views\ArthurView.java,illegalTypeImported,ArthurView,mp.shapes.LineImpl,ArthurView
+129,Tue Mar 21 22:57:09 EDT 2017,true,mp\views\ArthurView.java,illegalTypeImported,ArthurView,mp.shapes.StringShapeImpl,ArthurView
+129,Tue Mar 21 22:57:09 EDT 2017,true,mp\views\BridgeScenePainterImpl.java,expectedSuperTypes,BridgeScenePainterImpl,Component,BridgeScenePainterImpl
+129,Tue Mar 21 22:57:09 EDT 2017,true,grail\commands\RotateRightArmCommand.java,illegalTypeImported,RotateRightArmCommand,grail.tokens.WordToken,RotateRightArmCommand
+129,Tue Mar 21 22:57:09 EDT 2017,true,grail\commands\RotateRightArmCommand.java,illegalTypeImported,RotateRightArmCommand,grail.tokens.WordTokenImpl,RotateRightArmCommand
+129,Tue Mar 21 22:57:09 EDT 2017,true,mp\views\RobinView.java,illegalTypeImported,RobinView,grail.SingletonsCreator,RobinView
+129,Tue Mar 21 22:57:09 EDT 2017,true,mp\views\RobinView.java,illegalTypeImported,RobinView,mp.bridgeScene.AvatarImpl,RobinView
+129,Tue Mar 21 22:57:09 EDT 2017,true,mp\views\RobinView.java,illegalTypeImported,RobinView,mp.bridgeScene.BridgeSceneImpl,RobinView
+129,Tue Mar 21 22:57:09 EDT 2017,true,mp\views\RobinView.java,illegalTypeImported,RobinView,mp.shapes.AngleShapeImpl,RobinView
+129,Tue Mar 21 22:57:09 EDT 2017,true,mp\views\RobinView.java,illegalTypeImported,RobinView,mp.shapes.ImageImpl,RobinView
+129,Tue Mar 21 22:57:09 EDT 2017,true,mp\views\RobinView.java,illegalTypeImported,RobinView,mp.shapes.LineImpl,RobinView
+129,Tue Mar 21 22:57:09 EDT 2017,true,mp\views\RobinView.java,illegalTypeImported,RobinView,mp.shapes.StringShapeImpl,RobinView
+129,Tue Mar 21 22:57:09 EDT 2017,true,grail\ScanString.java,illegalTypeImported,ScanString,grail.commands.ApproachCommand,ScanString
+129,Tue Mar 21 22:57:09 EDT 2017,true,grail\ScanString.java,illegalTypeImported,ScanString,grail.commands.CallCommand,ScanString
+129,Tue Mar 21 22:57:09 EDT 2017,true,grail\ScanString.java,illegalTypeImported,ScanString,grail.commands.DefineCommand,ScanString
+129,Tue Mar 21 22:57:09 EDT 2017,true,grail\ScanString.java,illegalTypeImported,ScanString,grail.commands.FailCommand,ScanString
+129,Tue Mar 21 22:57:09 EDT 2017,true,grail\ScanString.java,illegalTypeImported,ScanString,grail.commands.MoveCommand,ScanString
+129,Tue Mar 21 22:57:09 EDT 2017,true,grail\ScanString.java,illegalTypeImported,ScanString,grail.commands.PassCommand,ScanString
+129,Tue Mar 21 22:57:09 EDT 2017,true,grail\ScanString.java,illegalTypeImported,ScanString,grail.commands.ProceedAllCommand,ScanString
+129,Tue Mar 21 22:57:09 EDT 2017,true,grail\ScanString.java,illegalTypeImported,ScanString,grail.commands.RedoCommand,ScanString
+129,Tue Mar 21 22:57:09 EDT 2017,true,grail\ScanString.java,illegalTypeImported,ScanString,grail.commands.RepeatCommand,ScanString
+129,Tue Mar 21 22:57:09 EDT 2017,true,grail\ScanString.java,illegalTypeImported,ScanString,grail.commands.RotateLeftArmCommand,ScanString
+129,Tue Mar 21 22:57:09 EDT 2017,true,grail\ScanString.java,illegalTypeImported,ScanString,grail.commands.RotateRightArmCommand,ScanString
+129,Tue Mar 21 22:57:09 EDT 2017,true,grail\ScanString.java,illegalTypeImported,ScanString,grail.commands.SayCommand,ScanString
+129,Tue Mar 21 22:57:09 EDT 2017,true,grail\ScanString.java,illegalTypeImported,ScanString,grail.commands.SleepCommand,ScanString
+129,Tue Mar 21 22:57:09 EDT 2017,true,grail\ScanString.java,illegalTypeImported,ScanString,grail.commands.ThreadCommand,ScanString
+129,Tue Mar 21 22:57:09 EDT 2017,true,grail\ScanString.java,illegalTypeImported,ScanString,grail.commands.UndoCommand,ScanString
+129,Tue Mar 21 22:57:09 EDT 2017,true,grail\ScanString.java,illegalTypeImported,ScanString,grail.commands.WaitCommand,ScanString
+129,Tue Mar 21 22:57:09 EDT 2017,true,grail\ScanString.java,illegalTypeImported,ScanString,grail.tokens.EndToken,ScanString
+129,Tue Mar 21 22:57:09 EDT 2017,true,grail\ScanString.java,illegalTypeImported,ScanString,grail.tokens.MinusToken,ScanString
+129,Tue Mar 21 22:57:09 EDT 2017,true,grail\ScanString.java,illegalTypeImported,ScanString,grail.tokens.NumberToken,ScanString
+129,Tue Mar 21 22:57:09 EDT 2017,true,grail\ScanString.java,illegalTypeImported,ScanString,grail.tokens.PlusToken,ScanString
+129,Tue Mar 21 22:57:09 EDT 2017,true,grail\ScanString.java,illegalTypeImported,ScanString,grail.tokens.QuotedStringToken,ScanString
+129,Tue Mar 21 22:57:09 EDT 2017,true,grail\ScanString.java,illegalTypeImported,ScanString,grail.tokens.StartToken,ScanString
+129,Tue Mar 21 22:57:09 EDT 2017,true,grail\ScanString.java,illegalTypeImported,ScanString,grail.tokens.Token,ScanString
+129,Tue Mar 21 22:57:09 EDT 2017,true,grail\ScanString.java,illegalTypeImported,ScanString,grail.tokens.TokenImpl,ScanString
+129,Tue Mar 21 22:57:09 EDT 2017,true,grail\ScanString.java,illegalTypeImported,ScanString,grail.tokens.WordToken,ScanString
+129,Tue Mar 21 22:57:09 EDT 2017,true,grail\ScanString.java,magic.number,ScanString,100,EXPR 100
+129,Tue Mar 21 22:57:09 EDT 2017,true,grail\ScanString.java,expectedGetters,ScanString,Errors,*//EC
+129,Tue Mar 21 22:57:09 EDT 2017,true,grail\ScanString.java,expectedGetters,ScanString,TokenList,@ClearableHistory//EC
+129,Tue Mar 21 22:57:09 EDT 2017,true,grail\ScanString.java,missingMethodCall,ScanString,       (.*)!hasNext:->boolean//EC 
+129,Tue Mar 21 22:57:09 EDT 2017,true,grail\ScanString.java,missingMethodCall,ScanString,       (.*)!next:->String//EC
+129,Tue Mar 21 22:57:09 EDT 2017,true,grail\commands\CallCommand.java,illegalTypeImported,CallCommand,grail.tokens.WordToken,CallCommand
+129,Tue Mar 21 22:57:09 EDT 2017,true,grail\commands\CallCommand.java,illegalTypeImported,CallCommand,grail.tokens.WordTokenImpl,CallCommand
+129,Tue Mar 21 22:57:09 EDT 2017,true,grail\commands\UndoCommand.java,illegalTypeImported,UndoCommand,grail.tokens.WordToken,UndoCommand
+129,Tue Mar 21 22:57:09 EDT 2017,true,grail\commands\UndoCommand.java,illegalTypeImported,UndoCommand,grail.tokens.WordTokenImpl,UndoCommand
+129,Tue Mar 21 22:57:09 EDT 2017,true,mp\views\DelegatingBridgeSceneView.java,illegalTypeImported,DelegatingBridgeSceneView,grail.SingletonsCreator,DelegatingBridgeSceneView
+129,Tue Mar 21 22:57:09 EDT 2017,true,mp\views\DelegatingBridgeSceneView.java,expectedClassInstantiations,SingletonsCreator,grail.SingletonsCreator,@InheritingBridgeScenePainter
+129,Tue Mar 21 22:57:09 EDT 2017,true,mp\views\DelegatingBridgeSceneView.java,expectedClassInstantiations,SingletonsCreator,grail.SingletonsCreator,@CommandInterpreterController//EC
+129,Tue Mar 21 22:57:09 EDT 2017,true,mp\views\DelegatingBridgeSceneView.java,expectedClassInstantiations,SingletonsCreator,grail.SingletonsCreator,@CommandInterpreterView//EC
+129,Tue Mar 21 22:57:09 EDT 2017,true,grail\AnimatorImpl.java,illegalTypeImported,AnimatorImpl,mp.bridgeScene.AvatarImpl,AnimatorImpl
+129,Tue Mar 21 22:57:09 EDT 2017,true,mp\bridgeScene\GorgeAndBridgeImpl.java,illegalTypeImported,GorgeAndBridgeImpl,mp.shapes.ImageImpl,GorgeAndBridgeImpl
+129,Tue Mar 21 22:57:09 EDT 2017,true,mp\bridgeScene\GorgeAndBridgeImpl.java,illegalTypeImported,GorgeAndBridgeImpl,mp.shapes.LineImpl,GorgeAndBridgeImpl
+129,Tue Mar 21 22:57:09 EDT 2017,true,mp\shapes\Image.java,duplicateShortTypeName,Image,[java.awt.Image, mp.shapes.Image]
+129,Tue Mar 21 22:57:09 EDT 2017,true,mp\shapes\Image.java,missingActualProperty,Image,X
+129,Tue Mar 21 22:57:09 EDT 2017,true,mp\shapes\Image.java,missingActualProperty,Image,Y
+129,Tue Mar 21 22:57:09 EDT 2017,true,mp\shapes\Image.java,missingActualProperty,Image,Width
+129,Tue Mar 21 22:57:09 EDT 2017,true,mp\shapes\Image.java,missingActualProperty,Image,Height
+129,Tue Mar 21 22:57:09 EDT 2017,true,mp\shapes\Image.java,missingActualProperty,BoundedShape,X
+129,Tue Mar 21 22:57:09 EDT 2017,true,mp\shapes\Image.java,missingActualProperty,BoundedShape,Y
+129,Tue Mar 21 22:57:09 EDT 2017,true,mp\shapes\Image.java,missingActualProperty,BoundedShape,Width
+129,Tue Mar 21 22:57:09 EDT 2017,true,mp\shapes\Image.java,missingActualProperty,BoundedShape,Height
+129,Tue Mar 21 22:57:09 EDT 2017,true,mp\shapes\Image.java,missingActualProperty,Locatable,X
+129,Tue Mar 21 22:57:09 EDT 2017,true,mp\shapes\Image.java,missingActualProperty,Locatable,Y
+129,Tue Mar 21 22:57:09 EDT 2017,true,mp\shapes\Image.java,missingActualEditableProperty,Image,X
+129,Tue Mar 21 22:57:09 EDT 2017,true,mp\shapes\Image.java,missingActualEditableProperty,Image,Y
+129,Tue Mar 21 22:57:09 EDT 2017,true,mp\shapes\Image.java,missingActualEditableProperty,Image,Width
+129,Tue Mar 21 22:57:09 EDT 2017,true,mp\shapes\Image.java,missingActualEditableProperty,Image,Height
+129,Tue Mar 21 22:57:09 EDT 2017,true,mp\shapes\Image.java,missingActualEditableProperty,BoundedShape,X
+129,Tue Mar 21 22:57:09 EDT 2017,true,mp\shapes\Image.java,missingActualEditableProperty,BoundedShape,Y
+129,Tue Mar 21 22:57:09 EDT 2017,true,mp\shapes\Image.java,missingActualEditableProperty,BoundedShape,Width
+129,Tue Mar 21 22:57:09 EDT 2017,true,mp\shapes\Image.java,missingActualEditableProperty,BoundedShape,Height
+129,Tue Mar 21 22:57:09 EDT 2017,true,mp\shapes\Image.java,missingActualEditableProperty,Locatable,X
+129,Tue Mar 21 22:57:09 EDT 2017,true,mp\shapes\Image.java,missingActualEditableProperty,Locatable,Y
+129,Tue Mar 21 22:57:09 EDT 2017,true,mp\shapes\Image.java,expectedGetters,Image,X,int
+129,Tue Mar 21 22:57:09 EDT 2017,true,mp\shapes\Image.java,expectedGetters,Image,Y,int
+129,Tue Mar 21 22:57:09 EDT 2017,true,mp\shapes\Image.java,expectedSuperTypes,Image,@BoundedShape,Image
+129,Tue Mar 21 22:57:09 EDT 2017,true,mp\views\GalahadView.java,illegalTypeImported,GalahadView,grail.SingletonsCreator,GalahadView
+129,Tue Mar 21 22:57:09 EDT 2017,true,mp\views\GalahadView.java,illegalTypeImported,GalahadView,mp.bridgeScene.AvatarImpl,GalahadView
+129,Tue Mar 21 22:57:09 EDT 2017,true,mp\views\GalahadView.java,illegalTypeImported,GalahadView,mp.bridgeScene.BridgeSceneImpl,GalahadView
+129,Tue Mar 21 22:57:09 EDT 2017,true,mp\views\GalahadView.java,illegalTypeImported,GalahadView,mp.shapes.AngleShapeImpl,GalahadView
+129,Tue Mar 21 22:57:09 EDT 2017,true,mp\views\GalahadView.java,illegalTypeImported,GalahadView,mp.shapes.ImageImpl,GalahadView
+129,Tue Mar 21 22:57:09 EDT 2017,true,mp\views\GalahadView.java,illegalTypeImported,GalahadView,mp.shapes.LineImpl,GalahadView
+129,Tue Mar 21 22:57:09 EDT 2017,true,mp\views\GalahadView.java,illegalTypeImported,GalahadView,mp.shapes.StringShapeImpl,GalahadView
+129,Tue Mar 21 22:57:10 EDT 2017,true,grail\commands\WaitCommand.java,illegalTypeImported,WaitCommand,grail.tokens.WordToken,WaitCommand
+129,Tue Mar 21 22:57:10 EDT 2017,true,grail\commands\WaitCommand.java,illegalTypeImported,WaitCommand,grail.tokens.WordTokenImpl,WaitCommand
+129,Tue Mar 21 22:57:10 EDT 2017,true,mp\bridgeScene\BridgeSceneImpl.java,illegalTypeImported,BridgeSceneImpl,mp.shapes.OvalImpl,BridgeSceneImpl
+129,Tue Mar 21 22:57:10 EDT 2017,true,grail\commands\RunnableApproachCommand.java,illegalTypeImported,RunnableApproachCommand,mp.bridgeScene.AvatarImpl,RunnableApproachCommand
+129,Tue Mar 21 22:57:10 EDT 2017,true,grail\commands\RunnableApproachCommand.java,illegalTypeImported,RunnableApproachCommand,mp.bridgeScene.BridgeSceneImpl,RunnableApproachCommand
+129,Tue Mar 21 22:57:10 EDT 2017,true,grail\commands\RotateLeftArmCommand.java,illegalTypeImported,RotateLeftArmCommand,grail.tokens.WordToken,RotateLeftArmCommand
+129,Tue Mar 21 22:57:10 EDT 2017,true,grail\commands\RotateLeftArmCommand.java,illegalTypeImported,RotateLeftArmCommand,grail.tokens.WordTokenImpl,RotateLeftArmCommand

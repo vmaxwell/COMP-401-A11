@@ -1,0 +1,45 @@
+-1,Fri Sep 09 22:39:08 EDT 2016,true,main\ScanString.java,typeDefined,ScanString,@ScannerBean
+-1,Fri Sep 09 22:39:08 EDT 2016,true,main\ScanString.java,expectedGetters,ScanString,ScannedString,String
+-1,Fri Sep 09 22:39:08 EDT 2016,true,main\ScanString.java,expectedSetters,ScanString,ScannedString,String
+-1,Fri Sep 09 22:39:09 EDT 2016,true,main\RunTests.java,typeDefined,RunTests,No Expected Tag
+-1,Fri Sep 09 22:39:09 EDT 2016,true,main\Assignment2.java,typeDefined,Assignment2,main.Assignment(.*)
+0,Thu Sep 15 02:06:11 EDT 2016,true,main\ScanString.java,typeDefined,ScanString,No Expected Tag
+1,Thu Sep 15 02:16:02 EDT 2016,true,main\NumberToken.java,typeDefined,NumberToken,No Expected Tag
+2,Thu Sep 15 02:21:08 EDT 2016,true,main\WordToken.java,typeDefined,WordToken,No Expected Tag
+3,Thu Sep 15 02:24:46 EDT 2016,true,main\QuotedStringToken.java,typeDefined,QuotedStringToken,No Expected Tag
+4,Thu Sep 15 02:25:43 EDT 2016,true,main\PlusToken.java,typeDefined,PlusToken,No Expected Tag
+5,Thu Sep 15 02:26:34 EDT 2016,true,main\MinusToken.java,typeDefined,MinusToken,No Expected Tag
+6,Thu Sep 15 02:27:23 EDT 2016,true,main\StartToken.java,typeDefined,StartToken,No Expected Tag
+7,Thu Sep 15 02:28:11 EDT 2016,true,main\EndToken.java,typeDefined,EndToken,No Expected Tag
+8,Thu Sep 15 02:34:08 EDT 2016,true,main\Token.java,typeDefined,Token,No Expected Tag
+19,Thu Sep 15 02:52:36 EDT 2016,true,main\AnotherToken.java,typeDefined,AnotherToken,No Expected Tag
+20,Thu Sep 15 02:58:29 EDT 2016,true,main\NumberTokenImpl.java,typeDefined,NumberTokenImpl,No Expected Tag
+21,Thu Sep 15 02:59:16 EDT 2016,true,main\WordTokenImpl.java,typeDefined,WordTokenImpl,No Expected Tag
+39,Thu Sep 15 03:27:35 EDT 2016,true,main\ScanStringImpl.java,typeDefined,ScanStringImpl,No Expected Tag
+42,Thu Sep 15 03:31:55 EDT 2016,true,main\ScanStringImpl.java,typeDefined,ScanStringImpl,@ScannerBean
+47,Fri Sep 16 00:05:28 EDT 2016,true,main\Assignment3.java,typeDefined,Assignment3,main.Assignment(.*)
+49,Fri Sep 16 00:19:16 EDT 2016,true,main\WordToken.java,expectedTypes,[main.Assignment(.*), @ScannerBean, mp.scanner.ScanningIterator//EC]
+49,Fri Sep 16 00:19:16 EDT 2016,true,main\WordToken.java,uncessaryMethodCall,WordToken,getValue-->String.toLowerCase
+49,Fri Sep 16 00:19:16 EDT 2016,true,main\WordToken.java,illegalMethodCall,WordToken,getValue-->String.toLowerCase
+49,Fri Sep 16 00:19:16 EDT 2016,true,main\WordToken.java,functionAssignsGlobal,WordToken,getValue
+50,Fri Sep 16 00:23:53 EDT 2016,false,StartToken,typeDefined,StartToken,No Expected Tag
+50,Fri Sep 16 00:23:53 EDT 2016,false,QuotedStringToken,typeDefined,QuotedStringToken,No Expected Tag
+50,Fri Sep 16 00:23:53 EDT 2016,false,EndToken,typeDefined,EndToken,No Expected Tag
+50,Fri Sep 16 00:23:53 EDT 2016,false,Assignment3,typeDefined,Assignment3,main.Assignment(.*)
+50,Fri Sep 16 00:23:53 EDT 2016,false,Token,typeDefined,Token,No Expected Tag
+50,Fri Sep 16 00:23:53 EDT 2016,false,RunTests,typeDefined,RunTests,No Expected Tag
+50,Fri Sep 16 00:23:53 EDT 2016,false,Assignment2,typeDefined,Assignment2,main.Assignment(.*)
+50,Fri Sep 16 00:23:53 EDT 2016,false,ScanString,expectedSetters,ScanString,ScannedString,String
+50,Fri Sep 16 00:23:53 EDT 2016,false,ScanString,typeDefined,ScanString,@ScannerBean
+50,Fri Sep 16 00:23:53 EDT 2016,false,ScanString,expectedGetters,ScanString,ScannedString,String
+50,Fri Sep 16 00:23:53 EDT 2016,false,ScanString,typeDefined,ScanString,No Expected Tag
+50,Fri Sep 16 00:23:53 EDT 2016,false,AnotherToken,typeDefined,AnotherToken,No Expected Tag
+50,Fri Sep 16 00:23:53 EDT 2016,false,PlusToken,typeDefined,PlusToken,No Expected Tag
+50,Fri Sep 16 00:23:53 EDT 2016,false,NumberToken,typeDefined,NumberToken,No Expected Tag
+50,Fri Sep 16 00:23:53 EDT 2016,false,MinusToken,typeDefined,MinusToken,No Expected Tag
+50,Fri Sep 16 00:23:53 EDT 2016,false,NumberTokenImpl,typeDefined,NumberTokenImpl,No Expected Tag
+50,Fri Sep 16 00:23:53 EDT 2016,false,WordTokenImpl,typeDefined,WordTokenImpl,No Expected Tag
+50,Fri Sep 16 00:23:53 EDT 2016,false,ScanStringImpl,typeDefined,ScanStringImpl,@ScannerBean
+50,Fri Sep 16 00:23:53 EDT 2016,false,ScanStringImpl,typeDefined,ScanStringImpl,No Expected Tag
+52,Fri Sep 16 00:32:31 EDT 2016,true,main\ScanString.java,typeDefined,ScanString,@ScannerBean
+56,Fri Sep 16 00:55:27 EDT 2016,true,main\RunTests.java,typeDefined,RunTests,No Expected Tag

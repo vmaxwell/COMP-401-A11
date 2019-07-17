@@ -1,0 +1,13 @@
+#,Time,%Passes,Change,Test,Pass,Partial,Fail,Untested
+0,Fri Sep 09 23:06:11 EDT 2016,16,16,MultipleQuoteOutputTest,MultipleQuoteOutputTest+ , , ,MissingQuoteOutputTest MultipleNumberOutputTest MultipleSignOutputTest MultipleWordOutputTest ScannerBeanTest ,
+1,Fri Sep 09 23:06:16 EDT 2016,33,17,MultipleSignOutputTest,MultipleQuoteOutputTest MultipleSignOutputTest+ , , ,MissingQuoteOutputTest MultipleNumberOutputTest MultipleWordOutputTest ScannerBeanTest ,
+2,Fri Sep 09 23:06:21 EDT 2016,50,17,MultipleNumberOutputTest,MultipleNumberOutputTest+ MultipleQuoteOutputTest MultipleSignOutputTest , , ,MissingQuoteOutputTest MultipleWordOutputTest ScannerBeanTest ,
+3,Fri Sep 09 23:06:26 EDT 2016,50,0,MissingQuoteOutputTest,MultipleNumberOutputTest MultipleQuoteOutputTest MultipleSignOutputTest , ,MissingQuoteOutputTest+ ,MultipleWordOutputTest ScannerBeanTest ,
+4,Fri Sep 09 23:07:40 EDT 2016,50,0,ScannerBeanTest,MultipleNumberOutputTest MultipleQuoteOutputTest MultipleSignOutputTest , ,MissingQuoteOutputTest ScannerBeanTest+ ,MultipleWordOutputTest ,
+5,Fri Sep 09 23:07:57 EDT 2016,66,16,MultipleWordOutputTest,MultipleNumberOutputTest MultipleQuoteOutputTest MultipleSignOutputTest MultipleWordOutputTest+ , ,MissingQuoteOutputTest ScannerBeanTest , ,
+6,Fri Sep 09 23:20:16 EDT 2016,83,17,ScannerBeanTest,MultipleNumberOutputTest MultipleQuoteOutputTest MultipleSignOutputTest MultipleWordOutputTest ScannerBeanTest+ , ,MissingQuoteOutputTest , ,
+7,Fri Sep 09 23:20:27 EDT 2016,83,0,MultipleWordOutputTest,MultipleNumberOutputTest MultipleQuoteOutputTest MultipleSignOutputTest MultipleWordOutputTest ScannerBeanTest , ,MissingQuoteOutputTest , ,
+8,Fri Sep 09 23:20:32 EDT 2016,83,0,MultipleNumberOutputTest,MultipleNumberOutputTest MultipleQuoteOutputTest MultipleSignOutputTest MultipleWordOutputTest ScannerBeanTest , ,MissingQuoteOutputTest , ,
+9,Fri Sep 09 23:20:34 EDT 2016,83,0,MultipleSignOutputTest,MultipleNumberOutputTest MultipleQuoteOutputTest MultipleSignOutputTest MultipleWordOutputTest ScannerBeanTest , ,MissingQuoteOutputTest , ,
+10,Fri Sep 09 23:20:36 EDT 2016,83,0,MultipleQuoteOutputTest,MultipleNumberOutputTest MultipleQuoteOutputTest MultipleSignOutputTest MultipleWordOutputTest ScannerBeanTest , ,MissingQuoteOutputTest , ,
+11,Fri Sep 09 23:20:41 EDT 2016,83,0,MissingQuoteOutputTest,MultipleNumberOutputTest MultipleQuoteOutputTest MultipleSignOutputTest MultipleWordOutputTest ScannerBeanTest , ,MissingQuoteOutputTest , ,

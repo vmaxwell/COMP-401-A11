@@ -1,0 +1,256 @@
+0,Sun Oct 09 14:28:46 EDT 2016,true,main\RunTests.java,typeDefined,RunTests,No Expected Tag
+1,Thu Oct 13 21:59:32 EDT 2016,true,grail\RotateRightArmCommand.java,typeDefined,RotateRightArmCommand,No Expected Tag
+1,Thu Oct 13 21:59:33 EDT 2016,true,mp\OvalImpl.java,typeDefined,OvalImpl,No Expected Tag
+1,Thu Oct 13 21:59:33 EDT 2016,true,mp\StringShape.java,typeDefined,StringShape,No Expected Tag
+1,Thu Oct 13 21:59:33 EDT 2016,true,grail\CallCommand.java,typeDefined,CallCommand,No Expected Tag
+1,Thu Oct 13 21:59:33 EDT 2016,true,mp\GorgeAndBridge.java,typeDefined,GorgeAndBridge,No Expected Tag
+1,Thu Oct 13 21:59:33 EDT 2016,true,mp\GorgeAndBridgeImpl.java,typeDefined,GorgeAndBridgeImpl,No Expected Tag
+1,Thu Oct 13 21:59:33 EDT 2016,true,mp\BridgeSceneImpl.java,typeDefined,BridgeSceneImpl,No Expected Tag
+1,Thu Oct 13 21:59:33 EDT 2016,true,grail\SleepCommand.java,typeDefined,SleepCommand,No Expected Tag
+1,Thu Oct 13 21:59:34 EDT 2016,true,grail\ThreadCommand.java,typeDefined,ThreadCommand,No Expected Tag
+1,Thu Oct 13 21:59:34 EDT 2016,true,grail\StartToken.java,typeDefined,StartToken,No Expected Tag
+1,Thu Oct 13 21:59:34 EDT 2016,true,grail\WordTokenImpl.java,typeDefined,WordTokenImpl,No Expected Tag
+1,Thu Oct 13 21:59:34 EDT 2016,true,grail\RotateLeftArmCommand.java,typeDefined,RotateLeftArmCommand,No Expected Tag
+1,Thu Oct 13 21:59:34 EDT 2016,true,mp\AngleShape.java,typeDefined,AngleShape,No Expected Tag
+1,Thu Oct 13 21:59:34 EDT 2016,true,mp\AngleShapeImpl.java,typeDefined,AngleShapeImpl,No Expected Tag
+1,Thu Oct 13 21:59:34 EDT 2016,true,grail\ScanString.java,typeDefined,ScanString,No Expected Tag
+1,Thu Oct 13 21:59:34 EDT 2016,true,mp\StringShapeImpl.java,typeDefined,StringShapeImpl,No Expected Tag
+1,Thu Oct 13 21:59:34 EDT 2016,true,grail\WaitCommand.java,typeDefined,WaitCommand,No Expected Tag
+1,Thu Oct 13 21:59:34 EDT 2016,true,grail\NumberTokenImpl.java,typeDefined,NumberTokenImpl,No Expected Tag
+1,Thu Oct 13 21:59:34 EDT 2016,true,mp\ImageImpl.java,typeDefined,ImageImpl,No Expected Tag
+1,Thu Oct 13 21:59:34 EDT 2016,true,grail\RedoCommand.java,typeDefined,RedoCommand,No Expected Tag
+1,Thu Oct 13 21:59:34 EDT 2016,true,main\Assignment6.java,typeDefined,Assignment6,main.Assignment6
+1,Thu Oct 13 21:59:35 EDT 2016,true,grail\SayCommand.java,typeDefined,SayCommand,No Expected Tag
+1,Thu Oct 13 21:59:35 EDT 2016,true,grail\TokenImpl.java,typeDefined,TokenImpl,No Expected Tag
+1,Thu Oct 13 21:59:35 EDT 2016,true,grail\ProceedAllCommand.java,typeDefined,ProceedAllCommand,No Expected Tag
+1,Thu Oct 13 21:59:35 EDT 2016,true,mp\Line.java,typeDefined,Line,No Expected Tag
+1,Thu Oct 13 21:59:35 EDT 2016,true,grail\Token.java,typeDefined,Token,No Expected Tag
+1,Thu Oct 13 21:59:35 EDT 2016,true,grail\WordToken.java,typeDefined,WordToken,No Expected Tag
+1,Thu Oct 13 21:59:35 EDT 2016,true,grail\PassCommand.java,typeDefined,PassCommand,No Expected Tag
+1,Thu Oct 13 21:59:35 EDT 2016,true,mp\Image.java,typeDefined,Image,No Expected Tag
+1,Thu Oct 13 21:59:35 EDT 2016,true,grail\EndToken.java,typeDefined,EndToken,No Expected Tag
+1,Thu Oct 13 21:59:35 EDT 2016,true,grail\QuotedStringToken.java,typeDefined,QuotedStringToken,No Expected Tag
+1,Thu Oct 13 21:59:35 EDT 2016,true,grail\FailCommand.java,typeDefined,FailCommand,No Expected Tag
+1,Thu Oct 13 21:59:35 EDT 2016,true,mp\Avatar.java,typeDefined,Avatar,No Expected Tag
+1,Thu Oct 13 21:59:37 EDT 2016,true,mp\LineImpl.java,typeDefined,LineImpl,No Expected Tag
+1,Thu Oct 13 21:59:37 EDT 2016,true,grail\MoveCommand.java,typeDefined,MoveCommand,No Expected Tag
+1,Thu Oct 13 21:59:37 EDT 2016,true,grail\DefineCommand.java,typeDefined,DefineCommand,No Expected Tag
+1,Thu Oct 13 21:59:37 EDT 2016,true,grail\ScanStringImpl.java,typeDefined,ScanStringImpl,No Expected Tag
+1,Thu Oct 13 21:59:37 EDT 2016,true,grail\PlusToken.java,typeDefined,PlusToken,No Expected Tag
+1,Thu Oct 13 21:59:37 EDT 2016,true,grail\RepeatCommand.java,typeDefined,RepeatCommand,No Expected Tag
+1,Thu Oct 13 21:59:37 EDT 2016,true,mp\Oval.java,typeDefined,Oval,No Expected Tag
+1,Thu Oct 13 21:59:37 EDT 2016,true,grail\UndoCommand.java,typeDefined,UndoCommand,No Expected Tag
+1,Thu Oct 13 21:59:37 EDT 2016,true,mp\AvatarImpl.java,typeDefined,AvatarImpl,No Expected Tag
+1,Thu Oct 13 21:59:37 EDT 2016,true,grail\NumberToken.java,typeDefined,NumberToken,No Expected Tag
+1,Thu Oct 13 21:59:37 EDT 2016,true,grail\ApproachCommand.java,typeDefined,ApproachCommand,No Expected Tag
+1,Thu Oct 13 21:59:37 EDT 2016,true,grail\MinusToken.java,typeDefined,MinusToken,No Expected Tag
+1,Thu Oct 13 21:59:37 EDT 2016,true,mp\BridgeScene.java,typeDefined,BridgeScene,No Expected Tag
+2,Thu Oct 13 22:04:50 EDT 2016,true,mp\Locatable.java,typeDefined,Locatable,No Expected Tag
+3,Thu Oct 13 22:06:51 EDT 2016,true,mp\LocatableImpl.java,typeDefined,LocatableImpl,No Expected Tag
+6,Thu Oct 13 22:12:09 EDT 2016,true,mp\BoundedShape.java,typeDefined,BoundedShape,No Expected Tag
+7,Thu Oct 13 22:13:21 EDT 2016,true,mp\BoundedShapeImpl.java,typeDefined,BoundedShapeImpl,No Expected Tag
+19,Thu Oct 13 22:44:03 EDT 2016,true,mp\LineImpl.java,typeDefined,LineImpl,@RotatingLine//EC
+20,Thu Oct 13 22:44:51 EDT 2016,true,mp\Line.java,typeDefined,Line,@RotatingLine//EC
+35,Thu Oct 13 23:12:10 EDT 2016,true,mp\Table.java,typeDefined,Table,No Expected Tag
+36,Thu Oct 13 23:12:23 EDT 2016,true,mp\TableImpl.java,typeDefined,TableImpl,No Expected Tag
+47,Fri Oct 14 11:44:08 EDT 2016,true,mp\SingletonsCreator.java,typeDefined,SingletonsCreator,No Expected Tag
+48,Fri Oct 14 11:45:51 EDT 2016,true,mp\SingletonsCreatorImpl.java,typeDefined,SingletonsCreatorImpl,No Expected Tag
+63,Fri Oct 14 12:06:25 EDT 2016,true,grail\CommandInterpreter.java,typeDefined,CommandInterpreter,No Expected Tag
+64,Fri Oct 14 12:19:59 EDT 2016,true,main\Assignment7.java,typeDefined,Assignment7,No Expected Tag
+73,Fri Oct 14 16:04:32 EDT 2016,true,grail\CommandInterpreterImpl.java,typeDefined,CommandInterpreterImpl,No Expected Tag
+87,Sat Oct 15 00:21:17 EDT 2016,true,main\Assignment7.java,expectedTypes,[main.Assignment6, @ScannerBean, @Number, @Word, @Quote, @Start, @End, @Plus//EC, @Minus//EC, ScanningIterator//EC, @RotatingLine//EC, @Move, @Pass, @Approach, @Fail, @Say, @RotateLeftArm//EC, @RotateRightArm//EC, @Repeat//EC, @Define//EC, @Call//EC, @Thread//EC, @Wait//EC, @ProceedAll//EC, @Sleep//EC, @Undo//EC, @Redo//EC, @Angle, @Avatar, @BridgeScene]
+87,Sat Oct 15 00:21:17 EDT 2016,true,main\Assignment7.java,illegalTypeImported,Assignment7,grail.CommandInterpreterImpl,Assignment7
+87,Sat Oct 15 00:21:17 EDT 2016,true,main\Assignment7.java,illegalTypeImported,Assignment7,grail.NumberTokenImpl,Assignment7
+87,Sat Oct 15 00:21:17 EDT 2016,true,main\Assignment7.java,illegalTypeImported,Assignment7,grail.ScanString,Assignment7
+87,Sat Oct 15 00:21:17 EDT 2016,true,main\Assignment7.java,illegalTypeImported,Assignment7,grail.ScanStringImpl,Assignment7
+87,Sat Oct 15 00:21:17 EDT 2016,true,main\Assignment7.java,illegalTypeImported,Assignment7,grail.SingletonsCreator,Assignment7
+87,Sat Oct 15 00:21:17 EDT 2016,true,main\Assignment7.java,illegalTypeImported,Assignment7,grail.TokenImpl,Assignment7
+87,Sat Oct 15 00:21:17 EDT 2016,true,main\Assignment7.java,illegalTypeImported,Assignment7,grail.WordTokenImpl,Assignment7
+87,Sat Oct 15 00:21:17 EDT 2016,true,main\Assignment7.java,illegalTypeImported,Assignment7,mp.AvatarImpl,Assignment7
+87,Sat Oct 15 00:21:17 EDT 2016,true,main\Assignment7.java,illegalTypeImported,Assignment7,mp.BridgeScene,Assignment7
+87,Sat Oct 15 00:21:17 EDT 2016,true,main\Assignment7.java,illegalTypeImported,Assignment7,mp.BridgeSceneImpl,Assignment7
+87,Sat Oct 15 00:21:17 EDT 2016,true,main\Assignment7.java,illegalTypeImported,Assignment7,mp.StringShapeImpl,Assignment7
+88,Sat Oct 15 00:25:29 EDT 2016,false,Line,typeDefined,Line,No Expected Tag
+88,Sat Oct 15 00:25:29 EDT 2016,false,Line,typeDefined,Line,@RotatingLine//EC
+88,Sat Oct 15 00:25:29 EDT 2016,false,RedoCommand,typeDefined,RedoCommand,No Expected Tag
+88,Sat Oct 15 00:25:29 EDT 2016,false,TokenImpl,typeDefined,TokenImpl,No Expected Tag
+88,Sat Oct 15 00:25:29 EDT 2016,false,LocatableImpl,typeDefined,LocatableImpl,No Expected Tag
+88,Sat Oct 15 00:25:29 EDT 2016,false,Oval,typeDefined,Oval,No Expected Tag
+88,Sat Oct 15 00:25:29 EDT 2016,false,WaitCommand,typeDefined,WaitCommand,No Expected Tag
+88,Sat Oct 15 00:25:29 EDT 2016,false,AngleShapeImpl,typeDefined,AngleShapeImpl,No Expected Tag
+88,Sat Oct 15 00:25:29 EDT 2016,false,MinusToken,typeDefined,MinusToken,No Expected Tag
+88,Sat Oct 15 00:25:29 EDT 2016,false,GorgeAndBridge,typeDefined,GorgeAndBridge,No Expected Tag
+88,Sat Oct 15 00:25:29 EDT 2016,false,ScanString,typeDefined,ScanString,No Expected Tag
+88,Sat Oct 15 00:25:29 EDT 2016,false,BridgeSceneImpl,typeDefined,BridgeSceneImpl,No Expected Tag
+88,Sat Oct 15 00:25:29 EDT 2016,false,ProceedAllCommand,typeDefined,ProceedAllCommand,No Expected Tag
+88,Sat Oct 15 00:25:29 EDT 2016,false,Avatar,typeDefined,Avatar,No Expected Tag
+88,Sat Oct 15 00:25:29 EDT 2016,false,Token,typeDefined,Token,No Expected Tag
+88,Sat Oct 15 00:25:29 EDT 2016,false,BoundedShapeImpl,typeDefined,BoundedShapeImpl,No Expected Tag
+88,Sat Oct 15 00:25:29 EDT 2016,false,Image,typeDefined,Image,No Expected Tag
+88,Sat Oct 15 00:25:29 EDT 2016,false,UndoCommand,typeDefined,UndoCommand,No Expected Tag
+88,Sat Oct 15 00:25:29 EDT 2016,false,StringShape,typeDefined,StringShape,No Expected Tag
+88,Sat Oct 15 00:25:29 EDT 2016,false,Assignment6,typeDefined,Assignment6,main.Assignment6
+88,Sat Oct 15 00:25:29 EDT 2016,false,WordTokenImpl,typeDefined,WordTokenImpl,No Expected Tag
+88,Sat Oct 15 00:25:29 EDT 2016,false,SingletonsCreator,typeDefined,SingletonsCreator,No Expected Tag
+88,Sat Oct 15 00:25:29 EDT 2016,false,ScanStringImpl,typeDefined,ScanStringImpl,No Expected Tag
+88,Sat Oct 15 00:25:29 EDT 2016,false,OvalImpl,typeDefined,OvalImpl,No Expected Tag
+88,Sat Oct 15 00:25:29 EDT 2016,false,CallCommand,typeDefined,CallCommand,No Expected Tag
+88,Sat Oct 15 00:25:29 EDT 2016,false,CommandInterpreter,typeDefined,CommandInterpreter,No Expected Tag
+88,Sat Oct 15 00:25:29 EDT 2016,false,RunTests,typeDefined,RunTests,No Expected Tag
+88,Sat Oct 15 00:25:29 EDT 2016,false,RotateLeftArmCommand,typeDefined,RotateLeftArmCommand,No Expected Tag
+88,Sat Oct 15 00:25:29 EDT 2016,false,PassCommand,typeDefined,PassCommand,No Expected Tag
+88,Sat Oct 15 00:25:29 EDT 2016,false,MoveCommand,typeDefined,MoveCommand,No Expected Tag
+88,Sat Oct 15 00:25:29 EDT 2016,false,SleepCommand,typeDefined,SleepCommand,No Expected Tag
+88,Sat Oct 15 00:25:29 EDT 2016,false,AvatarImpl,typeDefined,AvatarImpl,No Expected Tag
+88,Sat Oct 15 00:25:29 EDT 2016,false,TableImpl,typeDefined,TableImpl,No Expected Tag
+88,Sat Oct 15 00:25:29 EDT 2016,false,SayCommand,typeDefined,SayCommand,No Expected Tag
+88,Sat Oct 15 00:25:29 EDT 2016,false,QuotedStringToken,typeDefined,QuotedStringToken,No Expected Tag
+88,Sat Oct 15 00:25:29 EDT 2016,false,StringShapeImpl,typeDefined,StringShapeImpl,No Expected Tag
+88,Sat Oct 15 00:25:29 EDT 2016,false,ThreadCommand,typeDefined,ThreadCommand,No Expected Tag
+88,Sat Oct 15 00:25:29 EDT 2016,false,ApproachCommand,typeDefined,ApproachCommand,No Expected Tag
+88,Sat Oct 15 00:25:29 EDT 2016,false,StartToken,typeDefined,StartToken,No Expected Tag
+88,Sat Oct 15 00:25:29 EDT 2016,false,DefineCommand,typeDefined,DefineCommand,No Expected Tag
+88,Sat Oct 15 00:25:29 EDT 2016,false,NumberToken,typeDefined,NumberToken,No Expected Tag
+88,Sat Oct 15 00:25:29 EDT 2016,false,ImageImpl,typeDefined,ImageImpl,No Expected Tag
+88,Sat Oct 15 00:25:29 EDT 2016,false,PlusToken,typeDefined,PlusToken,No Expected Tag
+88,Sat Oct 15 00:25:29 EDT 2016,false,LineImpl,typeDefined,LineImpl,@RotatingLine//EC
+88,Sat Oct 15 00:25:29 EDT 2016,false,LineImpl,typeDefined,LineImpl,No Expected Tag
+88,Sat Oct 15 00:25:29 EDT 2016,false,RepeatCommand,typeDefined,RepeatCommand,No Expected Tag
+88,Sat Oct 15 00:25:29 EDT 2016,false,BoundedShape,typeDefined,BoundedShape,No Expected Tag
+88,Sat Oct 15 00:25:29 EDT 2016,false,WordToken,typeDefined,WordToken,No Expected Tag
+88,Sat Oct 15 00:25:29 EDT 2016,false,BridgeScene,typeDefined,BridgeScene,No Expected Tag
+88,Sat Oct 15 00:25:29 EDT 2016,false,Locatable,typeDefined,Locatable,No Expected Tag
+88,Sat Oct 15 00:25:29 EDT 2016,false,AngleShape,typeDefined,AngleShape,No Expected Tag
+88,Sat Oct 15 00:25:29 EDT 2016,false,RotateRightArmCommand,typeDefined,RotateRightArmCommand,No Expected Tag
+88,Sat Oct 15 00:25:29 EDT 2016,false,Table,typeDefined,Table,No Expected Tag
+88,Sat Oct 15 00:25:29 EDT 2016,false,FailCommand,typeDefined,FailCommand,No Expected Tag
+88,Sat Oct 15 00:25:29 EDT 2016,false,GorgeAndBridgeImpl,typeDefined,GorgeAndBridgeImpl,No Expected Tag
+88,Sat Oct 15 00:25:29 EDT 2016,false,NumberTokenImpl,typeDefined,NumberTokenImpl,No Expected Tag
+88,Sat Oct 15 00:25:29 EDT 2016,false,SingletonsCreatorImpl,typeDefined,SingletonsCreatorImpl,No Expected Tag
+88,Sat Oct 15 00:25:29 EDT 2016,false,CommandInterpreterImpl,typeDefined,CommandInterpreterImpl,No Expected Tag
+88,Sat Oct 15 00:25:29 EDT 2016,false,EndToken,typeDefined,EndToken,No Expected Tag
+88,Sat Oct 15 00:25:29 EDT 2016,true,main\Assignment7.java,magic.number,Assignment7,100,EXPR 100 , EXPR 100
+89,Sat Oct 15 00:26:26 EDT 2016,true,main\Assignment7.java,magic.number,Assignment7,100,EXPR 100 , EXPR 300
+89,Sat Oct 15 00:26:26 EDT 2016,true,main\Assignment7.java,magic.number,Assignment7,300,EXPR 100 , EXPR 300
+90,Sat Oct 15 00:28:43 EDT 2016,false,Assignment7,magic.number,Assignment7,100,EXPR 100 , EXPR 100
+92,Sat Oct 15 00:31:21 EDT 2016,false,Assignment7,magic.number,Assignment7,300,EXPR 100 , EXPR 300
+92,Sat Oct 15 00:31:21 EDT 2016,false,Assignment7,magic.number,Assignment7,100,EXPR 100 , EXPR 300
+93,Sat Oct 15 00:41:53 EDT 2016,true,mp\Avatar.java,typeDefined,Avatar,@Avatar
+94,Sat Oct 15 00:42:32 EDT 2016,true,mp\BridgeScene.java,typeDefined,BridgeScene,@BridgeScene
+95,Sat Oct 15 00:42:45 EDT 2016,true,mp\AvatarImpl.java,typeDefined,AvatarImpl,@Avatar
+96,Thu Oct 20 14:23:51 EDT 2016,true,grail\RotateRightArmCommand.java,expectedTypes,[main.Assignment6, @ScannerBean, @Number, @Word, @Quote, @Start, @End, @Plus//EC, @Minus//EC, ScanningIterator//EC, @RotatingLine//EC, @Move, @Pass, @Approach, @Fail, @Say, @RotateLeftArm//EC, @RotateRightArm//EC, @Repeat//EC, @Define//EC, @Call//EC, @Thread//EC, @Wait//EC, @ProceedAll//EC, @Sleep//EC, @Undo//EC, @Redo//EC, @Angle, @Avatar, @BridgeScene]
+96,Thu Oct 20 14:23:51 EDT 2016,true,grail\RotateRightArmCommand.java,typeDefined,RotateRightArmCommand,No Expected Tag
+96,Thu Oct 20 14:23:51 EDT 2016,true,mp\OvalImpl.java,typeDefined,OvalImpl,No Expected Tag
+96,Thu Oct 20 14:23:51 EDT 2016,true,mp\StringShape.java,typeDefined,StringShape,No Expected Tag
+96,Thu Oct 20 14:23:51 EDT 2016,true,grail\TableImpl.java,typeDefined,TableImpl,No Expected Tag
+96,Thu Oct 20 14:23:51 EDT 2016,true,mp\BridgeSceneImpl.java,typeDefined,BridgeSceneImpl,No Expected Tag
+96,Thu Oct 20 14:23:52 EDT 2016,true,grail\ThreadCommand.java,typeDefined,ThreadCommand,No Expected Tag
+96,Thu Oct 20 14:23:52 EDT 2016,true,grail\WordTokenImpl.java,typeDefined,WordTokenImpl,No Expected Tag
+96,Thu Oct 20 14:23:52 EDT 2016,true,mp\AngleShape.java,typeDefined,AngleShape,No Expected Tag
+96,Thu Oct 20 14:23:52 EDT 2016,true,grail\ScanString.java,typeDefined,ScanString,No Expected Tag
+96,Thu Oct 20 14:23:52 EDT 2016,true,grail\ScanString.java,magic.number,ScanString,100,EXPR 100
+96,Thu Oct 20 14:23:52 EDT 2016,true,grail\ScanString.java,expectedGetters,ScanString,Errors,*//EC
+96,Thu Oct 20 14:23:52 EDT 2016,true,grail\ScanString.java,expectedGetters,ScanString,TokenList,@ClearableHistory//EC
+96,Thu Oct 20 14:23:53 EDT 2016,true,grail\WaitCommand.java,typeDefined,WaitCommand,No Expected Tag
+96,Thu Oct 20 14:23:53 EDT 2016,true,grail\CommandInterpreterImpl.java,typeDefined,CommandInterpreterImpl,No Expected Tag
+96,Thu Oct 20 14:23:53 EDT 2016,true,grail\SingletonsCreator.java,typeDefined,SingletonsCreator,No Expected Tag
+96,Thu Oct 20 14:23:53 EDT 2016,true,grail\SingletonsCreator.java,illegalTypeImported,SingletonsCreator,mp.BridgeScene,SingletonsCreator
+96,Thu Oct 20 14:23:53 EDT 2016,true,grail\SingletonsCreator.java,illegalTypeImported,SingletonsCreator,mp.BridgeSceneImpl,SingletonsCreator
+96,Thu Oct 20 14:23:53 EDT 2016,true,grail\SingletonsCreator.java,variableHasClassType,Assignment7,SingletonsCreator,aCreator
+96,Thu Oct 20 14:23:53 EDT 2016,true,grail\SingletonsCreator.java,functionAssignsGlobal,SingletonsCreator,bridgeSceneFactory
+96,Thu Oct 20 14:23:53 EDT 2016,true,grail\SingletonsCreator.java,functionAssignsGlobal,SingletonsCreator,avatarTableFactory
+96,Thu Oct 20 14:23:53 EDT 2016,true,grail\SingletonsCreator.java,functionAssignsGlobal,SingletonsCreator,commandInterpreterFactory
+96,Thu Oct 20 14:23:53 EDT 2016,true,grail\SayCommand.java,typeDefined,SayCommand,No Expected Tag
+96,Thu Oct 20 14:23:53 EDT 2016,true,grail\TokenImpl.java,typeDefined,TokenImpl,No Expected Tag
+96,Thu Oct 20 14:23:53 EDT 2016,true,mp\Avatar.java,typeDefined,Avatar,No Expected Tag
+96,Thu Oct 20 14:23:53 EDT 2016,true,mp\Avatar.java,magic.number,Avatar,80,EXPR ( head . getX ) , EXPR ( head . getY ) , EXPR 80 , EXPR 90
+96,Thu Oct 20 14:23:53 EDT 2016,true,mp\Avatar.java,magic.number,Avatar,90,EXPR ( head . getX ) , EXPR ( head . getY ) , EXPR 80 , EXPR 90
+96,Thu Oct 20 14:23:54 EDT 2016,true,mp\LineImpl.java,typeDefined,LineImpl,No Expected Tag
+96,Thu Oct 20 14:23:54 EDT 2016,true,grail\DefineCommand.java,typeDefined,DefineCommand,No Expected Tag
+96,Thu Oct 20 14:23:54 EDT 2016,true,mp\LocatableImpl.java,typeDefined,LocatableImpl,No Expected Tag
+96,Thu Oct 20 14:23:54 EDT 2016,true,grail\ScanStringImpl.java,typeDefined,ScanStringImpl,No Expected Tag
+96,Thu Oct 20 14:23:54 EDT 2016,true,mp\Locatable.java,typeDefined,Locatable,No Expected Tag
+96,Thu Oct 20 14:23:54 EDT 2016,true,grail\RepeatCommand.java,typeDefined,RepeatCommand,No Expected Tag
+96,Thu Oct 20 14:23:54 EDT 2016,true,grail\UndoCommand.java,typeDefined,UndoCommand,No Expected Tag
+96,Thu Oct 20 14:23:54 EDT 2016,true,grail\ApproachCommand.java,typeDefined,ApproachCommand,No Expected Tag
+96,Thu Oct 20 14:23:54 EDT 2016,true,grail\CallCommand.java,typeDefined,CallCommand,No Expected Tag
+96,Thu Oct 20 14:23:54 EDT 2016,true,mp\GorgeAndBridge.java,typeDefined,GorgeAndBridge,No Expected Tag
+96,Thu Oct 20 14:23:54 EDT 2016,true,mp\GorgeAndBridge.java,magic.number,GorgeAndBridge,350,EXPR bridgeFileName , EXPR 350 , EXPR 150 , EXPR 300 , EXPR 100
+96,Thu Oct 20 14:23:54 EDT 2016,true,mp\GorgeAndBridge.java,magic.number,GorgeAndBridge,150,EXPR bridgeFileName , EXPR 350 , EXPR 150 , EXPR 300 , EXPR 100
+96,Thu Oct 20 14:23:54 EDT 2016,true,mp\GorgeAndBridge.java,magic.number,GorgeAndBridge,300,EXPR bridgeFileName , EXPR 350 , EXPR 150 , EXPR 300 , EXPR 100
+96,Thu Oct 20 14:23:54 EDT 2016,true,mp\GorgeAndBridge.java,magic.number,GorgeAndBridge,100,EXPR bridgeFileName , EXPR 350 , EXPR 150 , EXPR 300 , EXPR 100
+96,Thu Oct 20 14:23:54 EDT 2016,true,mp\GorgeAndBridge.java,magic.number,GorgeAndBridge,100,EXPR 0 , EXPR 100 , EXPR 350 , EXPR 0
+96,Thu Oct 20 14:23:54 EDT 2016,true,mp\GorgeAndBridge.java,magic.number,GorgeAndBridge,350,EXPR 0 , EXPR 100 , EXPR 350 , EXPR 0
+96,Thu Oct 20 14:23:54 EDT 2016,true,mp\GorgeAndBridge.java,magic.number,GorgeAndBridge,350,EXPR 350 , EXPR 100 , EXPR 600 , EXPR 90
+96,Thu Oct 20 14:23:54 EDT 2016,true,mp\GorgeAndBridge.java,magic.number,GorgeAndBridge,100,EXPR 350 , EXPR 100 , EXPR 600 , EXPR 90
+96,Thu Oct 20 14:23:54 EDT 2016,true,mp\GorgeAndBridge.java,magic.number,GorgeAndBridge,600,EXPR 350 , EXPR 100 , EXPR 600 , EXPR 90
+96,Thu Oct 20 14:23:54 EDT 2016,true,mp\GorgeAndBridge.java,magic.number,GorgeAndBridge,90,EXPR 350 , EXPR 100 , EXPR 600 , EXPR 90
+96,Thu Oct 20 14:23:54 EDT 2016,true,mp\GorgeAndBridge.java,magic.number,GorgeAndBridge,650,EXPR 650 , EXPR 100 , EXPR 200 , EXPR 0
+96,Thu Oct 20 14:23:54 EDT 2016,true,mp\GorgeAndBridge.java,magic.number,GorgeAndBridge,100,EXPR 650 , EXPR 100 , EXPR 200 , EXPR 0
+96,Thu Oct 20 14:23:54 EDT 2016,true,mp\GorgeAndBridge.java,magic.number,GorgeAndBridge,200,EXPR 650 , EXPR 100 , EXPR 200 , EXPR 0
+96,Thu Oct 20 14:23:54 EDT 2016,true,mp\GorgeAndBridge.java,magic.number,GorgeAndBridge,650,EXPR 650 , EXPR 100 , EXPR 600 , EXPR 90
+96,Thu Oct 20 14:23:54 EDT 2016,true,mp\GorgeAndBridge.java,magic.number,GorgeAndBridge,100,EXPR 650 , EXPR 100 , EXPR 600 , EXPR 90
+96,Thu Oct 20 14:23:54 EDT 2016,true,mp\GorgeAndBridge.java,magic.number,GorgeAndBridge,600,EXPR 650 , EXPR 100 , EXPR 600 , EXPR 90
+96,Thu Oct 20 14:23:54 EDT 2016,true,mp\GorgeAndBridge.java,magic.number,GorgeAndBridge,90,EXPR 650 , EXPR 100 , EXPR 600 , EXPR 90
+96,Thu Oct 20 14:23:54 EDT 2016,true,mp\GorgeAndBridgeImpl.java,typeDefined,GorgeAndBridgeImpl,No Expected Tag
+96,Thu Oct 20 14:23:54 EDT 2016,true,grail\SleepCommand.java,typeDefined,SleepCommand,No Expected Tag
+96,Thu Oct 20 14:23:54 EDT 2016,true,grail\StartToken.java,typeDefined,StartToken,No Expected Tag
+96,Thu Oct 20 14:23:54 EDT 2016,true,grail\RotateLeftArmCommand.java,typeDefined,RotateLeftArmCommand,No Expected Tag
+96,Thu Oct 20 14:23:54 EDT 2016,true,mp\AngleShapeImpl.java,typeDefined,AngleShapeImpl,No Expected Tag
+96,Thu Oct 20 14:23:54 EDT 2016,true,mp\StringShapeImpl.java,typeDefined,StringShapeImpl,No Expected Tag
+96,Thu Oct 20 14:23:55 EDT 2016,true,grail\NumberTokenImpl.java,typeDefined,NumberTokenImpl,No Expected Tag
+96,Thu Oct 20 14:23:55 EDT 2016,true,mp\ImageImpl.java,typeDefined,ImageImpl,No Expected Tag
+96,Thu Oct 20 14:23:55 EDT 2016,true,grail\RedoCommand.java,typeDefined,RedoCommand,No Expected Tag
+96,Thu Oct 20 14:23:55 EDT 2016,true,mp\BoundedShapeImpl.java,typeDefined,BoundedShapeImpl,No Expected Tag
+96,Thu Oct 20 14:23:55 EDT 2016,true,grail\ProceedAllCommand.java,typeDefined,ProceedAllCommand,No Expected Tag
+96,Thu Oct 20 14:23:55 EDT 2016,true,mp\Line.java,typeDefined,Line,No Expected Tag
+96,Thu Oct 20 14:23:55 EDT 2016,true,grail\Token.java,typeDefined,Token,No Expected Tag
+96,Thu Oct 20 14:23:55 EDT 2016,true,grail\WordToken.java,typeDefined,WordToken,No Expected Tag
+96,Thu Oct 20 14:23:55 EDT 2016,true,grail\WordToken.java,functionAssignsGlobal,WordToken,getValue
+96,Thu Oct 20 14:23:55 EDT 2016,true,mp\BoundedShape.java,typeDefined,BoundedShape,No Expected Tag
+96,Thu Oct 20 14:23:55 EDT 2016,true,mp\BoundedShape.java,expectedGetters,Line,Width,int | Height
+96,Thu Oct 20 14:23:55 EDT 2016,true,grail\PassCommand.java,typeDefined,PassCommand,No Expected Tag
+96,Thu Oct 20 14:23:55 EDT 2016,true,mp\Image.java,typeDefined,Image,No Expected Tag
+96,Thu Oct 20 14:23:55 EDT 2016,true,grail\EndToken.java,typeDefined,EndToken,No Expected Tag
+96,Thu Oct 20 14:23:55 EDT 2016,true,grail\Table.java,typeDefined,Table,No Expected Tag
+96,Thu Oct 20 14:23:55 EDT 2016,true,grail\Table.java,illegalTypeImported,Table,java.util.ArrayList,Table
+96,Thu Oct 20 14:23:55 EDT 2016,true,grail\Table.java,illegalTypeImported,Table,java.util.List,Table
+96,Thu Oct 20 14:23:55 EDT 2016,true,grail\QuotedStringToken.java,typeDefined,QuotedStringToken,No Expected Tag
+96,Thu Oct 20 14:23:55 EDT 2016,true,grail\FailCommand.java,typeDefined,FailCommand,No Expected Tag
+96,Thu Oct 20 14:23:55 EDT 2016,true,grail\CommandInterpreter.java,typeDefined,CommandInterpreter,No Expected Tag
+96,Thu Oct 20 14:23:55 EDT 2016,true,grail\CommandInterpreter.java,illegalTypeImported,CommandInterpreter,mp.AvatarImpl,CommandInterpreter
+96,Thu Oct 20 14:23:55 EDT 2016,true,grail\CommandInterpreter.java,illegalTypeImported,CommandInterpreter,mp.BridgeSceneImpl,CommandInterpreter
+96,Thu Oct 20 14:23:55 EDT 2016,true,grail\CommandInterpreter.java,magic.number,CommandInterpreter,4,4
+96,Thu Oct 20 14:23:55 EDT 2016,true,grail\CommandInterpreter.java,magic.number,CommandInterpreter,3,3
+96,Thu Oct 20 14:23:55 EDT 2016,true,main\RunTests.java,typeDefined,RunTests,No Expected Tag
+96,Thu Oct 20 14:23:55 EDT 2016,true,grail\MoveCommand.java,typeDefined,MoveCommand,No Expected Tag
+96,Thu Oct 20 14:23:55 EDT 2016,true,grail\PlusToken.java,typeDefined,PlusToken,No Expected Tag
+96,Thu Oct 20 14:23:55 EDT 2016,true,mp\Oval.java,typeDefined,Oval,No Expected Tag
+96,Thu Oct 20 14:23:55 EDT 2016,true,mp\Oval.java,expectedGetters,Oval,Width,int | Height
+96,Thu Oct 20 14:23:55 EDT 2016,true,mp\AvatarImpl.java,typeDefined,AvatarImpl,No Expected Tag
+96,Thu Oct 20 14:23:55 EDT 2016,true,grail\NumberToken.java,typeDefined,NumberToken,No Expected Tag
+96,Thu Oct 20 14:23:55 EDT 2016,true,grail\NumberToken.java,functionAssignsGlobal,NumberToken,getValue
+96,Thu Oct 20 14:23:55 EDT 2016,true,grail\MinusToken.java,typeDefined,MinusToken,No Expected Tag
+96,Thu Oct 20 14:23:55 EDT 2016,true,mp\BridgeScene.java,typeDefined,BridgeScene,No Expected Tag
+96,Thu Oct 20 14:23:55 EDT 2016,true,mp\BridgeScene.java,magic.number,BridgeScene,50,EXPR arthurFileName , EXPR 50 , EXPR 325 , EXPR ( arthurIcon . getIconWidth ) , EXPR ( arthurIcon . getIconHeight )
+96,Thu Oct 20 14:23:55 EDT 2016,true,mp\BridgeScene.java,magic.number,BridgeScene,325,EXPR arthurFileName , EXPR 50 , EXPR 325 , EXPR ( arthurIcon . getIconWidth ) , EXPR ( arthurIcon . getIconHeight )
+96,Thu Oct 20 14:23:55 EDT 2016,true,mp\BridgeScene.java,magic.number,BridgeScene,200,EXPR lancelotFileName , EXPR 200 , EXPR 325 , EXPR ( lancelotIcon . getIconWidth ) , EXPR ( lancelotIcon . getIconHeight )
+96,Thu Oct 20 14:23:55 EDT 2016,true,mp\BridgeScene.java,magic.number,BridgeScene,325,EXPR lancelotFileName , EXPR 200 , EXPR 325 , EXPR ( lancelotIcon . getIconWidth ) , EXPR ( lancelotIcon . getIconHeight )
+96,Thu Oct 20 14:23:55 EDT 2016,true,mp\BridgeScene.java,magic.number,BridgeScene,50,EXPR robinFileName , EXPR 50 , EXPR 450 , EXPR ( robinIcon . getIconWidth ) , EXPR ( robinIcon . getIconHeight )
+96,Thu Oct 20 14:23:55 EDT 2016,true,mp\BridgeScene.java,magic.number,BridgeScene,450,EXPR robinFileName , EXPR 50 , EXPR 450 , EXPR ( robinIcon . getIconWidth ) , EXPR ( robinIcon . getIconHeight )
+96,Thu Oct 20 14:23:55 EDT 2016,true,mp\BridgeScene.java,magic.number,BridgeScene,200,EXPR galahadFileName , EXPR 200 , EXPR 450 , EXPR ( galahadIcon . getIconWidth ) , EXPR ( galahadIcon . getIconHeight )
+96,Thu Oct 20 14:23:55 EDT 2016,true,mp\BridgeScene.java,magic.number,BridgeScene,450,EXPR galahadFileName , EXPR 200 , EXPR 450 , EXPR ( galahadIcon . getIconWidth ) , EXPR ( galahadIcon . getIconHeight )
+96,Thu Oct 20 14:23:55 EDT 2016,true,mp\BridgeScene.java,magic.number,BridgeScene,235,EXPR guardFileName , EXPR 235 , EXPR 100 , EXPR ( guardIcon . getIconWidth ) , EXPR ( guardIcon . getIconHeight )
+96,Thu Oct 20 14:23:55 EDT 2016,true,mp\BridgeScene.java,magic.number,BridgeScene,100,EXPR guardFileName , EXPR 235 , EXPR 100 , EXPR ( guardIcon . getIconWidth ) , EXPR ( guardIcon . getIconHeight )
+96,Thu Oct 20 14:23:55 EDT 2016,true,mp\BridgeScene.java,magic.number,BridgeScene,50,EXPR 50 , EXPR 150 , EXPR 100 , EXPR 100
+96,Thu Oct 20 14:23:55 EDT 2016,true,mp\BridgeScene.java,magic.number,BridgeScene,150,EXPR 50 , EXPR 150 , EXPR 100 , EXPR 100
+96,Thu Oct 20 14:23:55 EDT 2016,true,mp\BridgeScene.java,magic.number,BridgeScene,100,EXPR 50 , EXPR 150 , EXPR 100 , EXPR 100
+96,Thu Oct 20 14:23:55 EDT 2016,true,mp\BridgeScene.java,magic.number,BridgeScene,200,EXPR 200 , EXPR 150 , EXPR 100 , EXPR 100
+96,Thu Oct 20 14:23:55 EDT 2016,true,mp\BridgeScene.java,magic.number,BridgeScene,150,EXPR 200 , EXPR 150 , EXPR 100 , EXPR 100
+96,Thu Oct 20 14:23:55 EDT 2016,true,mp\BridgeScene.java,magic.number,BridgeScene,100,EXPR 200 , EXPR 150 , EXPR 100 , EXPR 100
+96,Thu Oct 20 14:23:55 EDT 2016,true,mp\BridgeScene.java,magic.number,BridgeScene,85,EXPR 85 , EXPR 100
+96,Thu Oct 20 14:23:55 EDT 2016,true,mp\BridgeScene.java,magic.number,BridgeScene,100,EXPR 85 , EXPR 100
+96,Thu Oct 20 14:23:55 EDT 2016,true,mp\BridgeScene.java,magic.number,BridgeScene,700,EXPR 700 , EXPR 100
+96,Thu Oct 20 14:23:55 EDT 2016,true,mp\BridgeScene.java,magic.number,BridgeScene,100,EXPR 700 , EXPR 100
+96,Thu Oct 20 14:23:55 EDT 2016,true,mp\BridgeScene.java,magic.number,BridgeScene,450,EXPR 450 , EXPR 450
+96,Thu Oct 20 14:23:55 EDT 2016,true,mp\BridgeScene.java,expectedDeclaredSignatures,BridgeScene,@scroll:int;int->*,BridgeScene
